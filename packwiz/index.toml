@@ -1,6 +1,11 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/antique-atlas-4.pw.toml"
+hash = "03ff831cb8084db62a0c1ce791091f4b119956b9f3bacfa140ba4689cfd978a8"
+metafile = true
+
+[[files]]
 file = "mods/chat-heads.pw.toml"
 hash = "836b77014a96263b41c03b14df4aaafe561b03491347e81ff9eee62ff1a39d19"
 metafile = true
@@ -58,6 +63,11 @@ metafile = true
 [[files]]
 file = "mods/ears.pw.toml"
 hash = "b42ea604c46fc73d9474ebc9d6d3d64a1efe6b9d5df8512c71a86f820eb8a105"
+metafile = true
+
+[[files]]
+file = "mods/emojiful.pw.toml"
+hash = "543658293b6adb6320331d9827ac428f6c4e0d5980b9c1c7807f2cdd952924e2"
 metafile = true
 
 [[files]]
@@ -126,6 +136,11 @@ hash = "0311ca22213f4a9c8fb943619271944d3ffedf7a17f098e8c0f8fad8f897d700"
 metafile = true
 
 [[files]]
+file = "mods/picturesign.pw.toml"
+hash = "319f18617e05e45893b5f75edff86e8742e769e427a8f37b43593faa6a8484df"
+metafile = true
+
+[[files]]
 file = "mods/simple-voice-chat.pw.toml"
 hash = "ef6992d15308d88e45074e082dc0552c61d494dc583a9b8520edba4bf1af94b6"
 metafile = true
@@ -143,6 +158,11 @@ metafile = true
 [[files]]
 file = "mods/styled-nicknames.pw.toml"
 hash = "e8ae114624b21b91cada4ed8241b829d2a6b1979b98bf9b994bd2c8320740f66"
+metafile = true
+
+[[files]]
+file = "mods/surveyor.pw.toml"
+hash = "a9c96b9fef877ea4501b772c104da6e52e01a09590ea434ff43824dbd23d9691"
 metafile = true
 
 [[files]]
