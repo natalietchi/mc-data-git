@@ -16,6 +16,11 @@ hash = "0a4d0034c5a1379d5aa57c0a104aaa2adbb98f1e2b89d4ec0b7ef68df2e16a1a"
 metafile = true
 
 [[files]]
+file = "mods/controlify.pw.toml"
+hash = "620789cac1642176f434219f5f979f61b925e8f4381acb0a4367d8a4cf726984"
+metafile = true
+
+[[files]]
 file = "mods/coroutil.pw.toml"
 hash = "d901f874a1e09747b8d0d072c38c426eceead1f29c8ba36680f8f0082996b152"
 metafile = true
@@ -121,6 +126,11 @@ hash = "6f32f8e6cf603c86771f2db9a05f99a149067f21e930387677a3fbcd04038bd6"
 metafile = true
 
 [[files]]
+file = "mods/simple-voice-chat.pw.toml"
+hash = "ef6992d15308d88e45074e082dc0552c61d494dc583a9b8520edba4bf1af94b6"
+metafile = true
+
+[[files]]
 file = "mods/sodium-extra.pw.toml"
 hash = "b16ee8ff10576cf6ef43fd6a2828463faf96de88e6409f9ee6b3dd31645d282d"
 metafile = true
@@ -148,4 +158,9 @@ metafile = true
 [[files]]
 file = "mods/what-are-they-up-to.pw.toml"
 hash = "62f2bc6dc8bc5dcbccf2ff23d9614f1f457e6afddd80d91ac26bd55dc9a75d56"
+metafile = true
+
+[[files]]
+file = "mods/yacl.pw.toml"
+hash = "e2ab678518f876a978414ec1b9c88896d78dcc49ee7bfefa0acc165d5388c7be"
 metafile = true
