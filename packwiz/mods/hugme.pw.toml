@@ -1,0 +1,13 @@
+name = "HugMe"
+filename = "HugMe!-NeoForge-1.21-1.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/1OhFApi7/versions/2GjhZde9/HugMe%21-NeoForge-1.21-1.3.jar"
+hash-format = "sha512"
+hash = "f9dec7d331e8f578bd979ea6a512bc1ab607632192a50de7542329a678b7fe6be762f2913f51b86455a08d136dfa250234a7191c29e8be20c0935a59f564f4d1"
+
+[update]
+[update.modrinth]
+mod-id = "1OhFApi7"
+version = "2GjhZde9"

@@ -76,6 +76,11 @@ hash = "543658293b6adb6320331d9827ac428f6c4e0d5980b9c1c7807f2cdd952924e2"
 metafile = true
 
 [[files]]
+file = "mods/emotecraft.pw.toml"
+hash = "22265643b0b1bb037d5399824cd504a0b39ae62dc78e25ddb700ab02cfe35a46"
+metafile = true
+
+[[files]]
 file = "mods/entityculling.pw.toml"
 hash = "5c58b5f90359fa2516855ddea5406998e7671889b4c89c46fec1f142e79357a3"
 metafile = true
@@ -103,6 +108,11 @@ metafile = true
 [[files]]
 file = "mods/geophilic.pw.toml"
 hash = "39801423e2c2323435333a795e038f7d7eb7c19bde86d79c6bfce47dd638aa1e"
+metafile = true
+
+[[files]]
+file = "mods/hugme.pw.toml"
+hash = "7f4210df7151cf887a1bc7b70883b458cca74e83308211c7dc10960a41cc2195"
 metafile = true
 
 [[files]]
@@ -176,6 +186,11 @@ hash = "319f18617e05e45893b5f75edff86e8742e769e427a8f37b43593faa6a8484df"
 metafile = true
 
 [[files]]
+file = "mods/playeranimator.pw.toml"
+hash = "c83705becd548879473132552de960f9d5975fa0edaeeb2d4665a4e35457423e"
+metafile = true
+
+[[files]]
 file = "mods/simple-voice-chat.pw.toml"
 hash = "ef6992d15308d88e45074e082dc0552c61d494dc583a9b8520edba4bf1af94b6"
 metafile = true
@@ -188,6 +203,11 @@ metafile = true
 [[files]]
 file = "mods/sodium.pw.toml"
 hash = "6b4582cc7c714c4d58161c0723286de325730d1add3034bc7bcd597f496222f3"
+metafile = true
+
+[[files]]
+file = "mods/squake-ported.pw.toml"
+hash = "1dd0c8b1e038496b9adfad1d00034e071d34b4b2b62e6f2aef31f7d8d9345c48"
 metafile = true
 
 [[files]]
