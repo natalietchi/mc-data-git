@@ -91,11 +91,6 @@ hash = "908cbf89e774b114d1dc3aef4806c9d2d782cfd314be001718bb690af9b074a8"
 metafile = true
 
 [[files]]
-file = "mods/mighty-mail.pw.toml"
-hash = "1fde61121484b4187f74e54a501a2a98228efefad437855a7be7a2a334148336"
-metafile = true
-
-[[files]]
 file = "mods/model-gap-fix.pw.toml"
 hash = "0f697b680492ec68f4db792705f84f27fa54afacba3c92a578e2c1b821bc894f"
 metafile = true
