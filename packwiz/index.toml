@@ -1,11 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "mods/antique-atlas-4.pw.toml"
-hash = "03ff831cb8084db62a0c1ce791091f4b119956b9f3bacfa140ba4689cfd978a8"
-metafile = true
-
-[[files]]
 file = "mods/chat-heads.pw.toml"
 hash = "836b77014a96263b41c03b14df4aaafe561b03491347e81ff9eee62ff1a39d19"
 metafile = true
@@ -158,11 +153,6 @@ metafile = true
 [[files]]
 file = "mods/styled-nicknames.pw.toml"
 hash = "e8ae114624b21b91cada4ed8241b829d2a6b1979b98bf9b994bd2c8320740f66"
-metafile = true
-
-[[files]]
-file = "mods/surveyor.pw.toml"
-hash = "a9c96b9fef877ea4501b772c104da6e52e01a09590ea434ff43824dbd23d9691"
 metafile = true
 
 [[files]]
