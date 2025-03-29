@@ -116,6 +116,11 @@ hash = "7f4210df7151cf887a1bc7b70883b458cca74e83308211c7dc10960a41cc2195"
 metafile = true
 
 [[files]]
+file = "mods/humbling-bundle.pw.toml"
+hash = "86438a59329dadefcb7a976bbf6de096bf550fa66adecbdef310f9a9259b4ac7"
+metafile = true
+
+[[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "66941b572b3d252b1dd212963ca9858bca270e6bfe86d92d2857a7b264cd7c38"
 metafile = true
