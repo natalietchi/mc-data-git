@@ -216,11 +216,6 @@ hash = "6b4582cc7c714c4d58161c0723286de325730d1add3034bc7bcd597f496222f3"
 metafile = true
 
 [[files]]
-file = "mods/squake-ported.pw.toml"
-hash = "1dd0c8b1e038496b9adfad1d00034e071d34b4b2b62e6f2aef31f7d8d9345c48"
-metafile = true
-
-[[files]]
 file = "mods/sticky-enchanting-lapis.pw.toml"
 hash = "0a521500b6c149af89fdd33e591388b88625809ad14ee91f420875eeba216979"
 metafile = true
