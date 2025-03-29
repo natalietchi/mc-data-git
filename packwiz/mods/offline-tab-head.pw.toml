@@ -1,0 +1,13 @@
+name = "Offline Tab Head"
+filename = "offline-tab-head-1.0.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/Yl4pEGbo/versions/J0gflkLc/offline-tab-head-1.0.0.jar"
+hash-format = "sha512"
+hash = "7163723568af832aa8029f1b0442745953452f599326f2d5923130c45e07ca522909b46e2850ee9be1019fac216abc563e60f0421aea90fd2fa4650333fe3f4b"
+
+[update]
+[update.modrinth]
+mod-id = "Yl4pEGbo"
+version = "J0gflkLc"

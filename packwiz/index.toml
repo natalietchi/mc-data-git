@@ -41,6 +41,11 @@ hash = "d901f874a1e09747b8d0d072c38c426eceead1f29c8ba36680f8f0082996b152"
 metafile = true
 
 [[files]]
+file = "mods/craterlib.pw.toml"
+hash = "7d738779e9f595fed0838d4369a501f61beef2c282c3a2e9db5b4e6bc62bff4f"
+metafile = true
+
+[[files]]
 file = "mods/create-let-the-adventure-begin.pw.toml"
 hash = "a5c631cf0dd5c8d305d70be0129111684d59301dacbdb9514f9dab254ddca91d"
 metafile = true
@@ -53,11 +58,6 @@ metafile = true
 [[files]]
 file = "mods/cristel-lib.pw.toml"
 hash = "1b391fef75582ef9d935c095646a28db239ba4792a4ce0e8778b5e1650b20d5f"
-metafile = true
-
-[[files]]
-file = "mods/dcintegration.pw.toml"
-hash = "a832de493f31251061455e1a473471d115ff875400ddeae78e35ae8c7868c3c1"
 metafile = true
 
 [[files]]
@@ -181,6 +181,11 @@ hash = "7c7c332502a1e7aefedab9ba9b7db02e5de5e45b9215b2dc878cfa61eb226f48"
 metafile = true
 
 [[files]]
+file = "mods/offline-tab-head.pw.toml"
+hash = "aa3c7d531a2deecc10ad3434fc4192fba380d5b1280c24333d349af494d9cc24"
+metafile = true
+
+[[files]]
 file = "mods/ore-harvester.pw.toml"
 hash = "d24b63a488c7807499b18fe76eda1ecd3ad8b787ded557f9a6412dadc66ba4d4"
 metafile = true
@@ -201,8 +206,18 @@ hash = "c83705becd548879473132552de960f9d5975fa0edaeeb2d4665a4e35457423e"
 metafile = true
 
 [[files]]
+file = "mods/sdlink.pw.toml"
+hash = "07ff785fdc9af22eaf070294a75fff5842e4a0f28ad71ca483217ca8020f1061"
+metafile = true
+
+[[files]]
 file = "mods/simple-voice-chat.pw.toml"
 hash = "ef6992d15308d88e45074e082dc0552c61d494dc583a9b8520edba4bf1af94b6"
+metafile = true
+
+[[files]]
+file = "mods/sodium-dynamic-lights.pw.toml"
+hash = "c1e526d3d17cb3563e596d45c7567ed1fe60c31bdc3457f7a747ef8150bd3c1b"
 metafile = true
 
 [[files]]
@@ -211,8 +226,13 @@ hash = "03d264a85c6b6fd0f011c958caf94a3238931fdd48c5c156ddb6e13fc16ce601"
 metafile = true
 
 [[files]]
+file = "mods/sodium-options-api.pw.toml"
+hash = "d193173f0f5dfb4a921d44e29e8d5cee656dd3a40872939069715bb482b66fc9"
+metafile = true
+
+[[files]]
 file = "mods/sodium.pw.toml"
-hash = "6b4582cc7c714c4d58161c0723286de325730d1add3034bc7bcd597f496222f3"
+hash = "347cac2ed12c9bc0561b6a59eeb4c121b10e5f3f71d54e9bf8d1343af57ef5b8"
 metafile = true
 
 [[files]]
