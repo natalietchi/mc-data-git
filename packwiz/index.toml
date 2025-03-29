@@ -211,11 +211,6 @@ hash = "c83705becd548879473132552de960f9d5975fa0edaeeb2d4665a4e35457423e"
 metafile = true
 
 [[files]]
-file = "mods/reeses-sodium-options.pw.toml"
-hash = "09306b955060349986ccf6a6d2a67f1e019fa172a7dc690dd6007f81c966309a"
-metafile = true
-
-[[files]]
 file = "mods/sdlink.pw.toml"
 hash = "07ff785fdc9af22eaf070294a75fff5842e4a0f28ad71ca483217ca8020f1061"
 metafile = true
