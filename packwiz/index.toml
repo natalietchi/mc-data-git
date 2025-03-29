@@ -1,11 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "mods/cable-facades.pw.toml"
-hash = "debc76a386e1486c139c7cc56a22f3054acfc25aa24f61322bb00e62e2ea01b9"
-metafile = true
-
-[[files]]
 file = "mods/chat-heads.pw.toml"
 hash = "836b77014a96263b41c03b14df4aaafe561b03491347e81ff9eee62ff1a39d19"
 metafile = true
@@ -13,6 +8,11 @@ metafile = true
 [[files]]
 file = "mods/chisels-bits.pw.toml"
 hash = "4fcb4fe03c09dd63211cbf3316f020ceeb00932585bff6055a4da1607be01c4f"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "22286fa216349c0767808903a0a38662857d2adee54950a18cbf26c167a06029"
 metafile = true
 
 [[files]]
@@ -58,11 +58,6 @@ metafile = true
 [[files]]
 file = "mods/ferritecore.pw.toml"
 hash = "942b02525962980b6176677cca162d27c1210b686985ad11db0055fe39d42a7d"
-metafile = true
-
-[[files]]
-file = "mods/figura.pw.toml"
-hash = "a0d6c1c458975efd2a57b5d8d6920b0647a884cc77463be5716f93c3f0112cb5"
 metafile = true
 
 [[files]]
