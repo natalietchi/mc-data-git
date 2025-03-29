@@ -37,7 +37,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "0c5cf2781ed60e3482eafe7f613a1d5127ec038c3394d10248d5f1761d8ac6eb"
+hash = "0c140eeaba6dc2c1acb77d4f3cd452811707e1d2dbd7b37269a4373d83524d6b"
 metafile = true
 
 [[files]]
@@ -72,12 +72,17 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "e1bc5166b52a83c691dc5faf4e4040aa0327b988628b9bd74d0d917f37e97f47"
+hash = "66941b572b3d252b1dd212963ca9858bca270e6bfe86d92d2857a7b264cd7c38"
 metafile = true
 
 [[files]]
 file = "mods/irisshaders.pw.toml"
-hash = "1c6c4862ca39adcd77485c161ae89fe6989c926c2d98f528a14598acdd56da97"
+hash = "b6a8af0232146daabb335e71d4fa385a97a8d3640301e7d0d666659c08e6a86c"
+metafile = true
+
+[[files]]
+file = "mods/jei.pw.toml"
+hash = "77b86ca843207273549875640b1c16254c2486e67127c37344c186b503da96ed"
 metafile = true
 
 [[files]]
@@ -92,7 +97,7 @@ metafile = true
 
 [[files]]
 file = "mods/model-gap-fix.pw.toml"
-hash = "0f697b680492ec68f4db792705f84f27fa54afacba3c92a578e2c1b821bc894f"
+hash = "de97e04da7383f948463a2c2dd73884a474a9b20a64591061dd27cd0bc8988c2"
 metafile = true
 
 [[files]]
@@ -117,12 +122,12 @@ metafile = true
 
 [[files]]
 file = "mods/sodium-extra.pw.toml"
-hash = "b16ee8ff10576cf6ef43fd6a2828463faf96de88e6409f9ee6b3dd31645d282d"
+hash = "03d264a85c6b6fd0f011c958caf94a3238931fdd48c5c156ddb6e13fc16ce601"
 metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "5451c741d85dd5d577c60aaa9b5b42fbfe7037d3c728330dbafb8b704dfcd60d"
+hash = "6b4582cc7c714c4d58161c0723286de325730d1add3034bc7bcd597f496222f3"
 metafile = true
 
 [[files]]
@@ -132,7 +137,7 @@ metafile = true
 
 [[files]]
 file = "mods/switchy.pw.toml"
-hash = "e883097977cb5350ad8283ab2246e5aea16ee9bb05938299eb5677ae38c693c8"
+hash = "8a658dbe45dd725262dc92befc001fe0ac0dc2939ec3d28401bb42e3e59b9d15"
 metafile = true
 
 [[files]]
