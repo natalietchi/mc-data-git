@@ -116,11 +116,6 @@ hash = "0311ca22213f4a9c8fb943619271944d3ffedf7a17f098e8c0f8fad8f897d700"
 metafile = true
 
 [[files]]
-file = "mods/picturesign.pw.toml"
-hash = "6f32f8e6cf603c86771f2db9a05f99a149067f21e930387677a3fbcd04038bd6"
-metafile = true
-
-[[files]]
 file = "mods/simple-voice-chat.pw.toml"
 hash = "ef6992d15308d88e45074e082dc0552c61d494dc583a9b8520edba4bf1af94b6"
 metafile = true
@@ -143,11 +138,6 @@ metafile = true
 [[files]]
 file = "mods/switchy.pw.toml"
 hash = "e883097977cb5350ad8283ab2246e5aea16ee9bb05938299eb5677ae38c693c8"
-metafile = true
-
-[[files]]
-file = "mods/watermedia.pw.toml"
-hash = "dc0d70ca47ea0da60a460e26279b670559418e1f91e9d29ad8cf76bbb671650a"
 metafile = true
 
 [[files]]
