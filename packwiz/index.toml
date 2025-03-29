@@ -41,6 +41,11 @@ hash = "d901f874a1e09747b8d0d072c38c426eceead1f29c8ba36680f8f0082996b152"
 metafile = true
 
 [[files]]
+file = "mods/create-let-the-adventure-begin.pw.toml"
+hash = "a5c631cf0dd5c8d305d70be0129111684d59301dacbdb9514f9dab254ddca91d"
+metafile = true
+
+[[files]]
 file = "mods/create.pw.toml"
 hash = "b3e1e88fae7462809ceaef7394e36c01bf422bbd939aa7393fa4f3a9cd5b0fe6"
 metafile = true
