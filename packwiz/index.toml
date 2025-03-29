@@ -1,13 +1,13 @@
 hash-format = "sha256"
 
 [[files]]
-file = "mods/chat-heads.pw.toml"
-hash = "836b77014a96263b41c03b14df4aaafe561b03491347e81ff9eee62ff1a39d19"
+file = "mods/antique-atlas-4.pw.toml"
+hash = "03ff831cb8084db62a0c1ce791091f4b119956b9f3bacfa140ba4689cfd978a8"
 metafile = true
 
 [[files]]
-file = "mods/chisels-bits.pw.toml"
-hash = "4fcb4fe03c09dd63211cbf3316f020ceeb00932585bff6055a4da1607be01c4f"
+file = "mods/chat-heads.pw.toml"
+hash = "836b77014a96263b41c03b14df4aaafe561b03491347e81ff9eee62ff1a39d19"
 metafile = true
 
 [[files]]
@@ -91,6 +91,11 @@ hash = "159ff6f2ccc1c41ef2f615c804ba8b04aa27c8273ef1845a66bc7a40fdad88e5"
 metafile = true
 
 [[files]]
+file = "mods/geophilic.pw.toml"
+hash = "39801423e2c2323435333a795e038f7d7eb7c19bde86d79c6bfce47dd638aa1e"
+metafile = true
+
+[[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "66941b572b3d252b1dd212963ca9858bca270e6bfe86d92d2857a7b264cd7c38"
 metafile = true
@@ -108,6 +113,11 @@ metafile = true
 [[files]]
 file = "mods/lithium.pw.toml"
 hash = "908cbf89e774b114d1dc3aef4806c9d2d782cfd314be001718bb690af9b074a8"
+metafile = true
+
+[[files]]
+file = "mods/lithostitched.pw.toml"
+hash = "47e2244b736fb660839538b160cc35e66f9f96e08e050c5e2cfd421dbe40eef7"
 metafile = true
 
 [[files]]
@@ -156,8 +166,18 @@ hash = "e8ae114624b21b91cada4ed8241b829d2a6b1979b98bf9b994bd2c8320740f66"
 metafile = true
 
 [[files]]
+file = "mods/surveyor.pw.toml"
+hash = "a9c96b9fef877ea4501b772c104da6e52e01a09590ea434ff43824dbd23d9691"
+metafile = true
+
+[[files]]
 file = "mods/switchy.pw.toml"
 hash = "8a658dbe45dd725262dc92befc001fe0ac0dc2939ec3d28401bb42e3e59b9d15"
+metafile = true
+
+[[files]]
+file = "mods/tectonic.pw.toml"
+hash = "e103e134083c1f541cf3142483cc781b1985a3f21fd7bce3d6cd1788e683902d"
 metafile = true
 
 [[files]]
