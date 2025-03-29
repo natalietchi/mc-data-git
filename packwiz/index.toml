@@ -111,11 +111,6 @@ hash = "159ff6f2ccc1c41ef2f615c804ba8b04aa27c8273ef1845a66bc7a40fdad88e5"
 metafile = true
 
 [[files]]
-file = "mods/geophilic.pw.toml"
-hash = "39801423e2c2323435333a795e038f7d7eb7c19bde86d79c6bfce47dd638aa1e"
-metafile = true
-
-[[files]]
 file = "mods/hugme.pw.toml"
 hash = "7f4210df7151cf887a1bc7b70883b458cca74e83308211c7dc10960a41cc2195"
 metafile = true
@@ -236,11 +231,6 @@ hash = "8a658dbe45dd725262dc92befc001fe0ac0dc2939ec3d28401bb42e3e59b9d15"
 metafile = true
 
 [[files]]
-file = "mods/tectonic.pw.toml"
-hash = "e103e134083c1f541cf3142483cc781b1985a3f21fd7bce3d6cd1788e683902d"
-metafile = true
-
-[[files]]
 file = "mods/tree-harvester.pw.toml"
 hash = "f5b816b8de8c237a6a7b51fda8323627a995796589fc6934ed4cd15e7f40e55a"
 metafile = true
@@ -248,6 +238,11 @@ metafile = true
 [[files]]
 file = "mods/what-are-they-up-to.pw.toml"
 hash = "62f2bc6dc8bc5dcbccf2ff23d9614f1f457e6afddd80d91ac26bd55dc9a75d56"
+metafile = true
+
+[[files]]
+file = "mods/wwoo.pw.toml"
+hash = "b8691fd91e8198d001e78d7ca82c9ab05aee6fb76bebb41b1b6fd6ca98ff29c9"
 metafile = true
 
 [[files]]
