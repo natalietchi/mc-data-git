@@ -1,0 +1,15 @@
+name = "fellaserver"
+author = "disksys"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "c2c2ad69323aa2b6afa183c5d87e8e8a033696d4af3d393af58172613cb334d1"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.140"
+
+[options]

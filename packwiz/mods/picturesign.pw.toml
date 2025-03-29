@@ -1,0 +1,13 @@
+name = "PictureSign"
+filename = "picturesign-neoforge-2.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "a5c52492116685df50cc1995423a31aed85db552"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5511156
+project-id = 533897
