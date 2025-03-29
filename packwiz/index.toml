@@ -1,6 +1,11 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/cable-facades.pw.toml"
+hash = "debc76a386e1486c139c7cc56a22f3054acfc25aa24f61322bb00e62e2ea01b9"
+metafile = true
+
+[[files]]
 file = "mods/chat-heads.pw.toml"
 hash = "836b77014a96263b41c03b14df4aaafe561b03491347e81ff9eee62ff1a39d19"
 metafile = true
