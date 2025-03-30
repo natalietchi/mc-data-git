@@ -221,16 +221,6 @@ hash = "d24b63a488c7807499b18fe76eda1ecd3ad8b787ded557f9a6412dadc66ba4d4"
 metafile = true
 
 [[files]]
-file = "mods/origins-minus.pw.toml"
-hash = "6a5f9b7873f746dad952a7db619f7f346a5e17340148808cdec4cf0fa6848c46"
-metafile = true
-
-[[files]]
-file = "mods/origins.pw.toml"
-hash = "a761fd033a60aa43ead7c3309c092a985af4c452ef6bfa10854b8bd1799543fe"
-metafile = true
-
-[[files]]
 file = "mods/owo-lib.pw.toml"
 hash = "0311ca22213f4a9c8fb943619271944d3ffedf7a17f098e8c0f8fad8f897d700"
 metafile = true
@@ -323,11 +313,6 @@ metafile = true
 [[files]]
 file = "mods/teleport-commands.pw.toml"
 hash = "a41701cf47acde3e3712426c9a5c7c133dcff9e2b97fc4e9809d3f696e9afb33"
-metafile = true
-
-[[files]]
-file = "mods/tinkerers-statures.pw.toml"
-hash = "b8e608baeb2b467e4d249d228e9bbfe1ef6d936fee395e9bcd927129982836eb"
 metafile = true
 
 [[files]]
