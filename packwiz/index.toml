@@ -166,11 +166,6 @@ hash = "66941b572b3d252b1dd212963ca9858bca270e6bfe86d92d2857a7b264cd7c38"
 metafile = true
 
 [[files]]
-file = "mods/inventory-tabs.pw.toml"
-hash = "8aefbf1a210f9a35114e081d241b97bb4d75ed6354f6f8cd9b489c2f28371e3f"
-metafile = true
-
-[[files]]
 file = "mods/inventory-totem.pw.toml"
 hash = "117a2d6ab1059e9d3bf65c4f17e4268797184bc7f9f4a17197ce92b5841ea26b"
 metafile = true
@@ -223,6 +218,11 @@ metafile = true
 [[files]]
 file = "mods/music-maker-mod.pw.toml"
 hash = "7c7c332502a1e7aefedab9ba9b7db02e5de5e45b9215b2dc878cfa61eb226f48"
+metafile = true
+
+[[files]]
+file = "mods/no-telemetry.pw.toml"
+hash = "ebd48452773a4b6b4b7dcedbfb71c8986ec97780fcce040542c8e8fd67f22c56"
 metafile = true
 
 [[files]]
