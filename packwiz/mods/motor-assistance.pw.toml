@@ -11,3 +11,8 @@ hash = "32eaaef2d140bb083cc9242dd122f7ce6e29f0280d90074494c7fe185b76f610e327a77e
 [update.modrinth]
 mod-id = "PpYYCciX"
 version = "DmJhAeXI"
+
+[option]
+optional = "yes"
+default = "no"
+description = "auto-aim, intended for controllers, but works with mouse too."

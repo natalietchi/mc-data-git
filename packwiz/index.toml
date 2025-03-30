@@ -177,7 +177,7 @@ metafile = true
 
 [[files]]
 file = "mods/motor-assistance.pw.toml"
-hash = "1273183eb0a1bb025984180935d6173230cf6a67509589d067cd7aade9d7a166"
+hash = "8055a7ce78e73874cfff5c71c318983efaae12a953feefa063053020b2b3b41f"
 metafile = true
 
 [[files]]
