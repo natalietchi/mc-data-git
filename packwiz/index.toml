@@ -241,11 +241,6 @@ hash = "c83705becd548879473132552de960f9d5975fa0edaeeb2d4665a4e35457423e"
 metafile = true
 
 [[files]]
-file = "mods/portable-crafting.pw.toml"
-hash = "8cd1c34f5062f1fb3a0ccea16f267505f1e378ca362406ef3a2dcea0ec0b4626"
-metafile = true
-
-[[files]]
 file = "mods/reacharound.pw.toml"
 hash = "f5aa8a4410d84e6ab5dd3797e2b900b26f669bd801ace7aab19ed987c4a05001"
 metafile = true
