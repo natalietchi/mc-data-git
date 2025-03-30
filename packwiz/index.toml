@@ -6,6 +6,11 @@ hash = "e2bcf8bbb03c7e120792f95d97f6c22038ab462a35c855d9475fdb4853760afc"
 metafile = true
 
 [[files]]
+file = "mods/all-loot-drops.pw.toml"
+hash = "2385c370182618423fa607ccf901dd2ce30e91afb82447ee72a5c42bb99392d5"
+metafile = true
+
+[[files]]
 file = "mods/antique-atlas-4.pw.toml"
 hash = "03ff831cb8084db62a0c1ce791091f4b119956b9f3bacfa140ba4689cfd978a8"
 metafile = true
@@ -13,6 +18,16 @@ metafile = true
 [[files]]
 file = "mods/apathy.pw.toml"
 hash = "6a4d5f743f7d7e4ed4ec149c46f7e74951bca7f8895f437c68a162c5eb204842"
+metafile = true
+
+[[files]]
+file = "mods/automatic-doors.pw.toml"
+hash = "393176040f2fbc3aa9b91e5dad0627e138d02ee29711768b3e88f2be0bf7e7b0"
+metafile = true
+
+[[files]]
+file = "mods/bouncier-beds.pw.toml"
+hash = "e0ea3ff48cc1d68a85d663fcd31f590f746c155336af74228d8023b174705442"
 metafile = true
 
 [[files]]

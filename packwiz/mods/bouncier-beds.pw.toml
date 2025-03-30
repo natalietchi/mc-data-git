@@ -1,0 +1,13 @@
+name = "Bouncier Beds"
+filename = "bouncierbeds-1.21.1-2.5.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/DqIJgy14/versions/2u5kjJ75/bouncierbeds-1.21.1-2.5.jar"
+hash-format = "sha512"
+hash = "89a0e13f6b78e912e065e1abde3da583ee40fd6ea9abcfdd9f5d9989b1cfbc0a91d017717cd9fadbc9180a9d7a0fdd8dc458844b964b02acc82b49759607d4fe"
+
+[update]
+[update.modrinth]
+mod-id = "DqIJgy14"
+version = "2u5kjJ75"
