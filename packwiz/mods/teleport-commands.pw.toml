@@ -1,0 +1,13 @@
+name = "Teleport Commands"
+filename = "teleport_commands-neoforge-1.21-1.2.1.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/3ne670on/versions/ICh7JwTc/teleport_commands-neoforge-1.21-1.2.1.jar"
+hash-format = "sha512"
+hash = "071a43fd2991489c40f886e5ae01dc6c4019986f820b2a255f1856c65d1ea0978a5cd2eaa89b03e52cf869ab7cbdd6fa90ec88b7ecd02ab4e16b7861800be31b"
+
+[update]
+[update.modrinth]
+mod-id = "3ne670on"
+version = "ICh7JwTc"

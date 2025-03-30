@@ -266,6 +266,11 @@ hash = "8a658dbe45dd725262dc92befc001fe0ac0dc2939ec3d28401bb42e3e59b9d15"
 metafile = true
 
 [[files]]
+file = "mods/teleport-commands.pw.toml"
+hash = "a41701cf47acde3e3712426c9a5c7c133dcff9e2b97fc4e9809d3f696e9afb33"
+metafile = true
+
+[[files]]
 file = "mods/towns-and-towers.pw.toml"
 hash = "7b9d8b2cd26fa320b7d40b0c68b85f3ae0c1516f896239bf5d9ede1f90761be1"
 metafile = true
