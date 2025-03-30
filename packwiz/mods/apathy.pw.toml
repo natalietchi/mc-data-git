@@ -1,0 +1,13 @@
+name = "Apathy"
+filename = "apathy-neoforge-1.21.1-2.7.1.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/fvtFPg1k/versions/dYySFHgE/apathy-neoforge-1.21.1-2.7.1.jar"
+hash-format = "sha512"
+hash = "73facbbda05b226fd054b73569f90abd665926bb637e34ea231692b357bc40716b7aaf8ca68daf2d53424e5a4d66e713c4ff3fa63dd87960f5daa752f224d107"
+
+[update]
+[update.modrinth]
+mod-id = "fvtFPg1k"
+version = "dYySFHgE"

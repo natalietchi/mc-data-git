@@ -11,6 +11,11 @@ hash = "03ff831cb8084db62a0c1ce791091f4b119956b9f3bacfa140ba4689cfd978a8"
 metafile = true
 
 [[files]]
+file = "mods/apathy.pw.toml"
+hash = "6a4d5f743f7d7e4ed4ec149c46f7e74951bca7f8895f437c68a162c5eb204842"
+metafile = true
+
+[[files]]
 file = "mods/chat-heads.pw.toml"
 hash = "836b77014a96263b41c03b14df4aaafe561b03491347e81ff9eee62ff1a39d19"
 metafile = true
@@ -71,6 +76,11 @@ hash = "a57f98e39d47d8ad4bf5769b2d905048155fb71034579095f4ebd99182def40a"
 metafile = true
 
 [[files]]
+file = "mods/drogstyle.pw.toml"
+hash = "430b432cf43c66161a21eeb3a62fe1c5e1c374812f9411679a172744acd6db82"
+metafile = true
+
+[[files]]
 file = "mods/dynamic-fps.pw.toml"
 hash = "0c140eeaba6dc2c1acb77d4f3cd452811707e1d2dbd7b37269a4373d83524d6b"
 metafile = true
@@ -78,6 +88,11 @@ metafile = true
 [[files]]
 file = "mods/ears.pw.toml"
 hash = "b42ea604c46fc73d9474ebc9d6d3d64a1efe6b9d5df8512c71a86f820eb8a105"
+metafile = true
+
+[[files]]
+file = "mods/emi.pw.toml"
+hash = "7f22959445f6830022e0dd5e71fb60298648cbc208977061f332f39f468f6fd9"
 metafile = true
 
 [[files]]
@@ -131,6 +146,11 @@ hash = "66941b572b3d252b1dd212963ca9858bca270e6bfe86d92d2857a7b264cd7c38"
 metafile = true
 
 [[files]]
+file = "mods/inventory-tabs.pw.toml"
+hash = "8aefbf1a210f9a35114e081d241b97bb4d75ed6354f6f8cd9b489c2f28371e3f"
+metafile = true
+
+[[files]]
 file = "mods/inventory-totem.pw.toml"
 hash = "117a2d6ab1059e9d3bf65c4f17e4268797184bc7f9f4a17197ce92b5841ea26b"
 metafile = true
@@ -143,11 +163,6 @@ metafile = true
 [[files]]
 file = "mods/jade.pw.toml"
 hash = "652900870d343dda5683456934ca76bf176ea54da73d9883d8a13c9b3cae2fac"
-metafile = true
-
-[[files]]
-file = "mods/jei.pw.toml"
-hash = "77b86ca843207273549875640b1c16254c2486e67127c37344c186b503da96ed"
 metafile = true
 
 [[files]]
@@ -201,6 +216,16 @@ hash = "d24b63a488c7807499b18fe76eda1ecd3ad8b787ded557f9a6412dadc66ba4d4"
 metafile = true
 
 [[files]]
+file = "mods/origins-minus.pw.toml"
+hash = "6a5f9b7873f746dad952a7db619f7f346a5e17340148808cdec4cf0fa6848c46"
+metafile = true
+
+[[files]]
+file = "mods/origins.pw.toml"
+hash = "a761fd033a60aa43ead7c3309c092a985af4c452ef6bfa10854b8bd1799543fe"
+metafile = true
+
+[[files]]
 file = "mods/owo-lib.pw.toml"
 hash = "0311ca22213f4a9c8fb943619271944d3ffedf7a17f098e8c0f8fad8f897d700"
 metafile = true
@@ -218,6 +243,16 @@ metafile = true
 [[files]]
 file = "mods/playeranimator.pw.toml"
 hash = "c83705becd548879473132552de960f9d5975fa0edaeeb2d4665a4e35457423e"
+metafile = true
+
+[[files]]
+file = "mods/portable-crafting.pw.toml"
+hash = "8cd1c34f5062f1fb3a0ccea16f267505f1e378ca362406ef3a2dcea0ec0b4626"
+metafile = true
+
+[[files]]
+file = "mods/reacharound.pw.toml"
+hash = "f5aa8a4410d84e6ab5dd3797e2b900b26f669bd801ace7aab19ed987c4a05001"
 metafile = true
 
 [[files]]
@@ -271,6 +306,11 @@ hash = "a9c96b9fef877ea4501b772c104da6e52e01a09590ea434ff43824dbd23d9691"
 metafile = true
 
 [[files]]
+file = "mods/swingthrough.pw.toml"
+hash = "2f05b23513f7682101e2ab609964833f1b4e8557a3c9b272f7c51d9dfa7ad254"
+metafile = true
+
+[[files]]
 file = "mods/switchy.pw.toml"
 hash = "8a658dbe45dd725262dc92befc001fe0ac0dc2939ec3d28401bb42e3e59b9d15"
 metafile = true
@@ -278,6 +318,11 @@ metafile = true
 [[files]]
 file = "mods/teleport-commands.pw.toml"
 hash = "a41701cf47acde3e3712426c9a5c7c133dcff9e2b97fc4e9809d3f696e9afb33"
+metafile = true
+
+[[files]]
+file = "mods/tinkerers-statures.pw.toml"
+hash = "b8e608baeb2b467e4d249d228e9bbfe1ef6d936fee395e9bcd927129982836eb"
 metafile = true
 
 [[files]]
