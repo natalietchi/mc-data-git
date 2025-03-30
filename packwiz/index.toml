@@ -201,6 +201,11 @@ hash = "0311ca22213f4a9c8fb943619271944d3ffedf7a17f098e8c0f8fad8f897d700"
 metafile = true
 
 [[files]]
+file = "mods/pehkui.pw.toml"
+hash = "e5141bf653c820b9967b8be2e3d9d8e83f3b54d0450f0cabe812e00cce481fdf"
+metafile = true
+
+[[files]]
 file = "mods/picturesign.pw.toml"
 hash = "319f18617e05e45893b5f75edff86e8742e769e427a8f37b43593faa6a8484df"
 metafile = true
