@@ -13,6 +13,6 @@ mod-id = "PpYYCciX"
 version = "DmJhAeXI"
 
 [option]
-optional = "true"
-default = "false"
+optional = true
+default = false
 description = "auto-aim, intended for controllers, but works with mouse too."
