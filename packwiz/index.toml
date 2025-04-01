@@ -32,12 +32,22 @@ metafile = true
 
 [[files]]
 file = "mods/artifacts.pw.toml"
-hash = "d09400b1fb229e1b565b87ee0408d37ef1c4f7374fbb52ca5169d59d8e06e2db"
+hash = "0490a27b4bd23e3d39e76b1f3a7e702b4ba417f504f3eb87f182cc5fc832630d"
+metafile = true
+
+[[files]]
+file = "mods/autochefs-delight.pw.toml"
+hash = "843c4a21311adf5382c4eb3af97359cd705a0546b89466f1e09434358d88407a"
 metafile = true
 
 [[files]]
 file = "mods/automatic-doors.pw.toml"
 hash = "393176040f2fbc3aa9b91e5dad0627e138d02ee29711768b3e88f2be0bf7e7b0"
+metafile = true
+
+[[files]]
+file = "mods/better-modlist.pw.toml"
+hash = "a24adf7667c54507db9d61056a819a53f9e5436fdf02577a091b0eefdf1e8e4f"
 metafile = true
 
 [[files]]
@@ -57,12 +67,17 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "e94bd41a54a72723e283df0c6a870c7baef0fa38ee9099842470f9fd10fc7e70"
+hash = "346c69a01085479b5301c1968cce7bb12cbb8f2ddc73a91bef8dcb439d53ef88"
 metafile = true
 
 [[files]]
 file = "mods/compact-help-command.pw.toml"
 hash = "ac48d2dc78f4c1907e597dd3e8a8e277272c5004b196cd13241b983b752d122f"
+metafile = true
+
+[[files]]
+file = "mods/companion.pw.toml"
+hash = "454b1d682ff4001931c29b4ba4df76c13c86749f4a9374fcff889d4fcb523d32"
 metafile = true
 
 [[files]]
@@ -151,13 +166,18 @@ hash = "1c29e9aa12233166665d5ad50c603e5f41159217db5b6efd6dd614eb9e80dde8"
 metafile = true
 
 [[files]]
+file = "mods/farmers-delight.pw.toml"
+hash = "867a029a8bed75bea2fb02e5186730db46ec01f970d0bdb266c6897074c16177"
+metafile = true
+
+[[files]]
 file = "mods/ferritecore.pw.toml"
 hash = "942b02525962980b6176677cca162d27c1210b686985ad11db0055fe39d42a7d"
 metafile = true
 
 [[files]]
 file = "mods/forgified-fabric-api.pw.toml"
-hash = "d6f2fdcf0f4bc67dccd8e036f7c8117ffd76a008bd50e2a060cd23671ef9abb9"
+hash = "c604862c7db098f8edcfa6aa1ebc4e235b3008fdbc61450c0da9c3c234513a54"
 metafile = true
 
 [[files]]
@@ -177,7 +197,12 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "66941b572b3d252b1dd212963ca9858bca270e6bfe86d92d2857a7b264cd7c38"
+hash = "a74b265c72325ea2e36be2fdb577225879132970f0179846da59ab63ff4c4990"
+metafile = true
+
+[[files]]
+file = "mods/inventory-profiles-next.pw.toml"
+hash = "9e130fd93c10e9ebac37b9e3e9f5dd13642567cc97de219df8d826d011f2d482"
 metafile = true
 
 [[files]]
@@ -201,8 +226,18 @@ hash = "250a60ad345454a739a4ed90779501c31c90f5be387c3e52816ced6713012e98"
 metafile = true
 
 [[files]]
+file = "mods/kiwi.pw.toml"
+hash = "d8190123b32da916dbf11eca9f54a25a553a79dee1ba33d8bdca4a0e9e5179f3"
+metafile = true
+
+[[files]]
 file = "mods/kotlin-for-forge.pw.toml"
 hash = "0033c5a00c46d5d7b6cf77b19fa76ce5c78a613f3128dcadb3588fa5841ae489"
+metafile = true
+
+[[files]]
+file = "mods/libipn.pw.toml"
+hash = "7445dfa826ed49d416f10850a40a333bf684ffac92a78f85d40de5cbebada3ba"
 metafile = true
 
 [[files]]
@@ -216,6 +251,11 @@ hash = "a859b2f6265d5160e052d00659e4bf2ec3e307856c707110caaf9f83439c9f2c"
 metafile = true
 
 [[files]]
+file = "mods/lootr.pw.toml"
+hash = "28cd260c71c34d01f59ea210af1031e94d98b4d6bd72d5a153955ce754c9a76f"
+metafile = true
+
+[[files]]
 file = "mods/model-gap-fix.pw.toml"
 hash = "de97e04da7383f948463a2c2dd73884a474a9b20a64591061dd27cd0bc8988c2"
 metafile = true
@@ -223,6 +263,11 @@ metafile = true
 [[files]]
 file = "mods/modernfix.pw.toml"
 hash = "996bdd8de2f3959c2ab61f03d0c86cfe131d54c6171407cbd52044f0c3104b85"
+metafile = true
+
+[[files]]
+file = "mods/moonlight.pw.toml"
+hash = "5f959c321827c877eeaa6061163c03545db446b9942996265e470d8df98ed2b1"
 metafile = true
 
 [[files]]
@@ -291,6 +336,11 @@ hash = "ef6992d15308d88e45074e082dc0552c61d494dc583a9b8520edba4bf1af94b6"
 metafile = true
 
 [[files]]
+file = "mods/smarter-farmers-farmers-replant.pw.toml"
+hash = "7612fcce79aef4f72c4e516e8baa71d5776449f0cb50f0f003fa016133b8f6ab"
+metafile = true
+
+[[files]]
 file = "mods/sodium-dynamic-lights.pw.toml"
 hash = "c1e526d3d17cb3563e596d45c7567ed1fe60c31bdc3457f7a747ef8150bd3c1b"
 metafile = true
@@ -318,6 +368,11 @@ metafile = true
 [[files]]
 file = "mods/styled-nicknames.pw.toml"
 hash = "e8ae114624b21b91cada4ed8241b829d2a6b1979b98bf9b994bd2c8320740f66"
+metafile = true
+
+[[files]]
+file = "mods/supplementaries.pw.toml"
+hash = "03261d68c5b0b05fa77ea0d2f3ac4a517d8aeedf77a925ad01825634b1e8d33f"
 metafile = true
 
 [[files]]
