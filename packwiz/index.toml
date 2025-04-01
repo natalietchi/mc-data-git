@@ -82,7 +82,7 @@ metafile = true
 
 [[files]]
 file = "mods/companion.pw.toml"
-hash = "454b1d682ff4001931c29b4ba4df76c13c86749f4a9374fcff889d4fcb523d32"
+hash = "bf51464494d007e13d4b421528c4ab1a6c17876908d62c5a3555dfad283f9d3c"
 metafile = true
 
 [[files]]
@@ -232,7 +232,7 @@ metafile = true
 
 [[files]]
 file = "mods/kiwi.pw.toml"
-hash = "d8190123b32da916dbf11eca9f54a25a553a79dee1ba33d8bdca4a0e9e5179f3"
+hash = "2cb9f11e70a27fed5aef1aaefba8f5799c49886787f9c92ef76be46ea8d399ea"
 metafile = true
 
 [[files]]
