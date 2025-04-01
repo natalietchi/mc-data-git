@@ -166,6 +166,11 @@ hash = "5c58b5f90359fa2516855ddea5406998e7671889b4c89c46fec1f142e79357a3"
 metafile = true
 
 [[files]]
+file = "mods/extra-mod-integrations.pw.toml"
+hash = "bd667f480005d4710f0d69fea6757c0dd3ced5c25c52533353339c153e1f173a"
+metafile = true
+
+[[files]]
 file = "mods/fabrictailor.pw.toml"
 hash = "1c29e9aa12233166665d5ad50c603e5f41159217db5b6efd6dd614eb9e80dde8"
 metafile = true
