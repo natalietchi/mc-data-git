@@ -232,7 +232,7 @@ metafile = true
 
 [[files]]
 file = "mods/itemswapper.pw.toml"
-hash = "9d60551ce2d924c0219f26ee3ed444837cad36faefe2827e9e64e16716c5f441"
+hash = "21f334728978b81c7870cb0e3ac29ed9d0f881787cd85f9f3df3bc91255c310c"
 metafile = true
 
 [[files]]
