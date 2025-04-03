@@ -26,11 +26,6 @@ hash = "1fa5075c1ebd310416d705674d6ae90975fa8971ce6cf04478f548a18c58d0da"
 metafile = true
 
 [[files]]
-file = "mods/antique-atlas-4.pw.toml"
-hash = "03ff831cb8084db62a0c1ce791091f4b119956b9f3bacfa140ba4689cfd978a8"
-metafile = true
-
-[[files]]
 file = "mods/apathy.pw.toml"
 hash = "6a4d5f743f7d7e4ed4ec149c46f7e74951bca7f8895f437c68a162c5eb204842"
 metafile = true
@@ -112,7 +107,7 @@ metafile = true
 
 [[files]]
 file = "mods/companion.pw.toml"
-hash = "bf51464494d007e13d4b421528c4ab1a6c17876908d62c5a3555dfad283f9d3c"
+hash = "035e7d290515ce41e44548ec18106bfa076850baccfa37cc2076630980065095"
 metafile = true
 
 [[files]]
@@ -267,7 +262,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "a74b265c72325ea2e36be2fdb577225879132970f0179846da59ab63ff4c4990"
+hash = "b0773e2ad50611e61c8e42d4a9267872961d7280e4afc8f79429e8050337abd9"
 metafile = true
 
 [[files]]
@@ -342,7 +337,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "5f959c321827c877eeaa6061163c03545db446b9942996265e470d8df98ed2b1"
+hash = "7d462dd56eda9fc9e5002ea995f2a5a87c3e785aecf6b95d2e33d07a73d11628"
 metafile = true
 
 [[files]]
@@ -533,6 +528,16 @@ metafile = true
 [[files]]
 file = "mods/wwoo.pw.toml"
 hash = "b8691fd91e8198d001e78d7ca82c9ab05aee6fb76bebb41b1b6fd6ca98ff29c9"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-minimap.pw.toml"
+hash = "76106b9ed7a255d778219a296d9ae03538da6a6a0bc98bb34476d6c9225e133f"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-world-map.pw.toml"
+hash = "9bf4e265e0a89520bbe60b051f84609c9c5f53e50fe8b7b1473bcbefff905bad"
 metafile = true
 
 [[files]]
