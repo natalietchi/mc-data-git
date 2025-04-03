@@ -11,6 +11,11 @@ hash = "e2bcf8bbb03c7e120792f95d97f6c22038ab462a35c855d9475fdb4853760afc"
 metafile = true
 
 [[files]]
+file = "mods/aether.pw.toml"
+hash = "09050b6ad0e3b487bed8dd707cfb2b5a8d02739eef3974b5db8dc4427f6cab7b"
+metafile = true
+
+[[files]]
 file = "mods/all-loot-drops.pw.toml"
 hash = "2385c370182618423fa607ccf901dd2ce30e91afb82447ee72a5c42bb99392d5"
 metafile = true
@@ -63,6 +68,11 @@ metafile = true
 [[files]]
 file = "mods/better-modlist.pw.toml"
 hash = "a24adf7667c54507db9d61056a819a53f9e5436fdf02577a091b0eefdf1e8e4f"
+metafile = true
+
+[[files]]
+file = "mods/bjornlib.pw.toml"
+hash = "209056bddf4e3fde945a91ec6287a96d1d2af022f46d12cd26de665361f34cf4"
 metafile = true
 
 [[files]]
@@ -151,8 +161,23 @@ hash = "1b391fef75582ef9d935c095646a28db239ba4792a4ce0e8778b5e1650b20d5f"
 metafile = true
 
 [[files]]
+file = "mods/deep-aether.pw.toml"
+hash = "21134d88b6a1063faa58aec8163a1fb63316dbbed9bce8a50c0ab9613412f92a"
+metafile = true
+
+[[files]]
+file = "mods/dmr.pw.toml"
+hash = "b92a64525367cd6240595bff65b0b6421b35afd5a78a78c44e7b356b3d42925e"
+metafile = true
+
+[[files]]
 file = "mods/double-doors.pw.toml"
 hash = "a57f98e39d47d8ad4bf5769b2d905048155fb71034579095f4ebd99182def40a"
+metafile = true
+
+[[files]]
+file = "mods/dragon-mounts-remastered-more-dragons.pw.toml"
+hash = "93cb26a33483855d6b20b96c9a98fef1d0bd5d878a710f54d9d6c88a6f0c0e6a"
 metafile = true
 
 [[files]]
@@ -488,11 +513,6 @@ metafile = true
 [[files]]
 file = "mods/tree-harvester.pw.toml"
 hash = "f5b816b8de8c237a6a7b51fda8323627a995796589fc6934ed4cd15e7f40e55a"
-metafile = true
-
-[[files]]
-file = "mods/useless-reptile.pw.toml"
-hash = "351608ab9dbd769884ed2c87e3d3f103356b6c2210a37aa19ba8d8fa8f3f6a08"
 metafile = true
 
 [[files]]

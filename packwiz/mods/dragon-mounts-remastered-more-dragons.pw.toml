@@ -1,0 +1,13 @@
+name = "Dragon Mounts Remastered: More Dragons"
+filename = "moredragonsrem-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d28582146f3b5d5fc85a18b570d156f71b3f722b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6123458
+project-id = 1186747
