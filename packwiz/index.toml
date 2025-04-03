@@ -36,6 +36,16 @@ hash = "ea336d25c3e21ef168aec20e1ea470c96949ad29632646ee8e8ab0d74b4bbfc9"
 metafile = true
 
 [[files]]
+file = "mods/ars-nouveau.pw.toml"
+hash = "7f1be18c4e9ca51fcc9e46046d3661fdc5b38edced758f740dfe59c128660798"
+metafile = true
+
+[[files]]
+file = "mods/arsdelight.pw.toml"
+hash = "6ac408c5676cfad7fa8437176ef9d1cbe486da083ff697fe0ba3721600878da5"
+metafile = true
+
+[[files]]
 file = "mods/artifacts.pw.toml"
 hash = "0490a27b4bd23e3d39e76b1f3a7e702b4ba417f504f3eb87f182cc5fc832630d"
 metafile = true
@@ -68,6 +78,11 @@ metafile = true
 [[files]]
 file = "mods/chat-heads.pw.toml"
 hash = "836b77014a96263b41c03b14df4aaafe561b03491347e81ff9eee62ff1a39d19"
+metafile = true
+
+[[files]]
+file = "mods/chococraft.pw.toml"
+hash = "2da4a3dc7a8539fa16a5db83d91340a0f9dad9f33df5dc57dc1c16f79fdfa7a3"
 metafile = true
 
 [[files]]
@@ -146,6 +161,11 @@ hash = "430b432cf43c66161a21eeb3a62fe1c5e1c374812f9411679a172744acd6db82"
 metafile = true
 
 [[files]]
+file = "mods/dungeon-crawl.pw.toml"
+hash = "589e6549cfe4f211abd2829fab1d00d9906a72d22b96f0fdb7e11fbb277ac1a1"
+metafile = true
+
+[[files]]
 file = "mods/dynamic-fps.pw.toml"
 hash = "0c140eeaba6dc2c1acb77d4f3cd452811707e1d2dbd7b37269a4373d83524d6b"
 metafile = true
@@ -203,6 +223,11 @@ metafile = true
 [[files]]
 file = "mods/framework.pw.toml"
 hash = "159ff6f2ccc1c41ef2f615c804ba8b04aa27c8273ef1845a66bc7a40fdad88e5"
+metafile = true
+
+[[files]]
+file = "mods/geckolib.pw.toml"
+hash = "548cf9b25748105c70af57d4f169f4f8ea9c47c1ec6ec9cae9cbe264bdf31754"
 metafile = true
 
 [[files]]
@@ -316,6 +341,11 @@ hash = "82a5c30ed91d272ee1895376e0d2cf57504b3d9db4aba6547e19eaa344861ada"
 metafile = true
 
 [[files]]
+file = "mods/octo-lib.pw.toml"
+hash = "94828636fa5e8b258a60049250c84ba8c5a0310a98bc1530fc02c351a06aab8b"
+metafile = true
+
+[[files]]
 file = "mods/offline-tab-head.pw.toml"
 hash = "aa3c7d531a2deecc10ad3434fc4192fba380d5b1280c24333d349af494d9cc24"
 metafile = true
@@ -346,6 +376,11 @@ hash = "c83705becd548879473132552de960f9d5975fa0edaeeb2d4665a4e35457423e"
 metafile = true
 
 [[files]]
+file = "mods/rar-compat.pw.toml"
+hash = "2ac39a563920881824b70f17da5b31a72f9f0bb4272e96dec8f8ef74c7807cba"
+metafile = true
+
+[[files]]
 file = "mods/reacharound.pw.toml"
 hash = "f5aa8a4410d84e6ab5dd3797e2b900b26f669bd801ace7aab19ed987c4a05001"
 metafile = true
@@ -353,6 +388,16 @@ metafile = true
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "09306b955060349986ccf6a6d2a67f1e019fa172a7dc690dd6007f81c966309a"
+metafile = true
+
+[[files]]
+file = "mods/relics-mod.pw.toml"
+hash = "91d2eac79f39a14bdf53f7a40592617cdcb0449d41734159f8502dd78cdc9b84"
+metafile = true
+
+[[files]]
+file = "mods/reliquified-ars-nouveau.pw.toml"
+hash = "11396d33b232b9860999a41274716f7696b1ed446d7abca1391751ce10b9143a"
 metafile = true
 
 [[files]]
@@ -446,6 +491,11 @@ hash = "f5b816b8de8c237a6a7b51fda8323627a995796589fc6934ed4cd15e7f40e55a"
 metafile = true
 
 [[files]]
+file = "mods/useless-reptile.pw.toml"
+hash = "351608ab9dbd769884ed2c87e3d3f103356b6c2210a37aa19ba8d8fa8f3f6a08"
+metafile = true
+
+[[files]]
 file = "mods/vivecraft.pw.toml"
 hash = "d63e30e404e8e9550b9774e8288073608a93e5c98362fed8fc5a1957aa45a2d9"
 metafile = true
@@ -463,6 +513,21 @@ metafile = true
 [[files]]
 file = "mods/yacl.pw.toml"
 hash = "e2ab678518f876a978414ec1b9c88896d78dcc49ee7bfefa0acc165d5388c7be"
+metafile = true
+
+[[files]]
+file = "mods/yungs-api.pw.toml"
+hash = "d987d3a1b3c54d02c10d69b80903ceb9082a8e120817fa3d36a29422edfa7e02"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-dungeons.pw.toml"
+hash = "4c2830674a08ec9f10af13e4d259aa60158bd306a3996d935e678281ec0cb5fd"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-mineshafts.pw.toml"
+hash = "0cc13a86488cf89d2989edc1636fa63c7efa2fe819246d42af35113458d5ba5b"
 metafile = true
 
 [[files]]
