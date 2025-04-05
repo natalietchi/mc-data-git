@@ -66,6 +66,11 @@ hash = "a24adf7667c54507db9d61056a819a53f9e5436fdf02577a091b0eefdf1e8e4f"
 metafile = true
 
 [[files]]
+file = "mods/bettertrims.pw.toml"
+hash = "ffc7968795cfbe7a06b24d90b25768684372b2dfc8fcc4abd50ffa7d8a3f0977"
+metafile = true
+
+[[files]]
 file = "mods/bjornlib.pw.toml"
 hash = "209056bddf4e3fde945a91ec6287a96d1d2af022f46d12cd26de665361f34cf4"
 metafile = true
@@ -108,6 +113,11 @@ metafile = true
 [[files]]
 file = "mods/companion.pw.toml"
 hash = "035e7d290515ce41e44548ec18106bfa076850baccfa37cc2076630980065095"
+metafile = true
+
+[[files]]
+file = "mods/configurable.pw.toml"
+hash = "66f262b88bbbe15f786c95670411a3de3413fd41b809187914674f5706cbd52b"
 metafile = true
 
 [[files]]
