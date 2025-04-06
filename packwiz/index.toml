@@ -12,7 +12,7 @@ metafile = true
 
 [[files]]
 file = "mods/aether.pw.toml"
-hash = "09050b6ad0e3b487bed8dd707cfb2b5a8d02739eef3974b5db8dc4427f6cab7b"
+hash = "5e62bb12eb55e4575d1ca5e3570b5cc18473138973c80ac7093e61e459339db1"
 metafile = true
 
 [[files]]
@@ -146,6 +146,11 @@ hash = "d901f874a1e09747b8d0d072c38c426eceead1f29c8ba36680f8f0082996b152"
 metafile = true
 
 [[files]]
+file = "mods/craftpresence.pw.toml"
+hash = "ef9a6da83be95d05a9328f74e3ef7378d7a5c82f191001bce69efb220f6c2498"
+metafile = true
+
+[[files]]
 file = "mods/craterlib.pw.toml"
 hash = "7d738779e9f595fed0838d4369a501f61beef2c282c3a2e9db5b4e6bc62bff4f"
 metafile = true
@@ -243,6 +248,11 @@ metafile = true
 [[files]]
 file = "mods/ferritecore.pw.toml"
 hash = "942b02525962980b6176677cca162d27c1210b686985ad11db0055fe39d42a7d"
+metafile = true
+
+[[files]]
+file = "mods/first-person-model.pw.toml"
+hash = "f853bfb1dd6237df87750d57efab0363a482f7b64ff554be7c3b0078586982a5"
 metafile = true
 
 [[files]]
@@ -548,6 +558,11 @@ metafile = true
 [[files]]
 file = "mods/tree-harvester.pw.toml"
 hash = "f5b816b8de8c237a6a7b51fda8323627a995796589fc6934ed4cd15e7f40e55a"
+metafile = true
+
+[[files]]
+file = "mods/unilib.pw.toml"
+hash = "75875de6233b9a09724376231c012fb01359f6718e28532418fe2e4853bc67be"
 metafile = true
 
 [[files]]
