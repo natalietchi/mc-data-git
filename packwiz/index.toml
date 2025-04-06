@@ -47,7 +47,7 @@ metafile = true
 
 [[files]]
 file = "mods/artifacts.pw.toml"
-hash = "0490a27b4bd23e3d39e76b1f3a7e702b4ba417f504f3eb87f182cc5fc832630d"
+hash = "638ed6822274b657f1ad0e832d7d87185a4d915836543ad942c942d3728af5f9"
 metafile = true
 
 [[files]]
@@ -152,7 +152,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-let-the-adventure-begin.pw.toml"
-hash = "a5c631cf0dd5c8d305d70be0129111684d59301dacbdb9514f9dab254ddca91d"
+hash = "622b63181af8f881fe80bcc1bdbe99c9bbc1bd60e82070235a6d220b85a0f1f8"
 metafile = true
 
 [[files]]
@@ -212,7 +212,7 @@ metafile = true
 
 [[files]]
 file = "mods/emojiful.pw.toml"
-hash = "543658293b6adb6320331d9827ac428f6c4e0d5980b9c1c7807f2cdd952924e2"
+hash = "198e91fac0383a231c484c9d82d0174a2e1b29710c84b2c13b8ac7d84e1d9932"
 metafile = true
 
 [[files]]
@@ -227,7 +227,7 @@ metafile = true
 
 [[files]]
 file = "mods/extra-mod-integrations.pw.toml"
-hash = "bd667f480005d4710f0d69fea6757c0dd3ced5c25c52533353339c153e1f173a"
+hash = "6f59e18621f30c6dc0ffa7f34324b423f3e3a7a8c251560c6a1dd835b6bce87a"
 metafile = true
 
 [[files]]
@@ -347,7 +347,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "7d462dd56eda9fc9e5002ea995f2a5a87c3e785aecf6b95d2e33d07a73d11628"
+hash = "970652dcafc192107411d031ccb2b534ddb7ac6e2ba9a4bdb277f1023cc712d9"
 metafile = true
 
 [[files]]
@@ -411,6 +411,11 @@ hash = "c83705becd548879473132552de960f9d5975fa0edaeeb2d4665a4e35457423e"
 metafile = true
 
 [[files]]
+file = "mods/polymorph.pw.toml"
+hash = "4b0b8296abb5d39ca3e923f4d4d2849088d785072cdb7bfa7f36cbb3acd6b3b3"
+metafile = true
+
+[[files]]
 file = "mods/rar-compat.pw.toml"
 hash = "2ac39a563920881824b70f17da5b31a72f9f0bb4272e96dec8f8ef74c7807cba"
 metafile = true
@@ -427,7 +432,7 @@ metafile = true
 
 [[files]]
 file = "mods/relics-mod.pw.toml"
-hash = "91d2eac79f39a14bdf53f7a40592617cdcb0449d41734159f8502dd78cdc9b84"
+hash = "6a63278c2c76634c20544514d6d5237d31d78076aed1e0e47b06276aa3293329"
 metafile = true
 
 [[files]]
@@ -472,7 +477,27 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "347cac2ed12c9bc0561b6a59eeb4c121b10e5f3f71d54e9bf8d1343af57ef5b8"
+hash = "0281ed9713f3141bdac363056a791845510e14761ea65b4b2813cf96d664b20a"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-backpacks.pw.toml"
+hash = "f54472e9b4ec51ea6c1e0bd76ec12f04c14811b8862f8f51544923c48e6a6c07"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-core.pw.toml"
+hash = "d34eb22327953a0488d6f98e71a8266848a720034e298e7d2a5d4fd656129eed"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-storage-create-integration.pw.toml"
+hash = "628f6efe2c6fd54a1c508d686d482400b650d5bd63cabf0fc31c5198c109f095"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-storage.pw.toml"
+hash = "d8be58efdba5e6baad1dfe80525cbdebba4aff11dd4a4b1629959bbee30d1f88"
 metafile = true
 
 [[files]]
@@ -487,7 +512,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "03261d68c5b0b05fa77ea0d2f3ac4a517d8aeedf77a925ad01825634b1e8d33f"
+hash = "a7b24a8d8e264f5c6b1876d7cfbb345a060052ac172b634e89c179ffa17ba4ae"
 metafile = true
 
 [[files]]
