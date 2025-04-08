@@ -1,13 +1,13 @@
 name = "Dragon Mounts Remastered"
-filename = "Dragon Mounts Remastered-1.21.1-1.6.0.jar"
+filename = "Dragon Mounts Remastered-1.21.1-1.7.0.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/DUx05jFK/versions/WYsqbVdS/Dragon%20Mounts%20Remastered-1.21.1-1.6.0.jar"
+url = "https://cdn.modrinth.com/data/DUx05jFK/versions/hCoDHPEf/Dragon%20Mounts%20Remastered-1.21.1-1.7.0.jar"
 hash-format = "sha512"
-hash = "9d353e6b8d92fe6f4b4bf78ae722d039cce74b111bf46e763d93dcbba22a5aac87f6f7fb3897cef03210c01155bcfaab8674fb7a204bdc65338c9de2d5774083"
+hash = "6be55b5e57d54b2e1c319638344ca19d4dd4b0188f28d3fa6b874d319d688bb383b7b333a6d2fc13d88e5120afec8e7488d641f2277875bfd42b9abbbca2ba15"
 
 [update]
 [update.modrinth]
 mod-id = "DUx05jFK"
-version = "WYsqbVdS"
+version = "hCoDHPEf"
