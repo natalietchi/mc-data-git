@@ -1,13 +1,13 @@
 name = "Artifacts"
-filename = "artifacts-neoforge-12.1.4.jar"
+filename = "artifacts-neoforge-12.1.5.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/P0Mu4wcQ/versions/nXBSwxlC/artifacts-neoforge-12.1.4.jar"
+url = "https://cdn.modrinth.com/data/P0Mu4wcQ/versions/ZiWmUeZJ/artifacts-neoforge-12.1.5.jar"
 hash-format = "sha512"
-hash = "08bb07ff96834545e2acebc954fdeb21692fe3ce8d6645a5850f9d81eeed6939c19b139075dbbc70522c9c15a3257b9aa41b9338813bae114be5c8bf245ec6f5"
+hash = "b1c409afe0e42db5f05086947b4f0a4f3803c8a1973fe38d464f6c3bee08c3c988cba94e9d5d59cbfca4429962e4c8454e49631c61bb38fd7a051bbdc45d5317"
 
 [update]
 [update.modrinth]
 mod-id = "P0Mu4wcQ"
-version = "nXBSwxlC"
+version = "ZiWmUeZJ"

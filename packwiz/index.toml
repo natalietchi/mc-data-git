@@ -41,6 +41,11 @@ hash = "ea336d25c3e21ef168aec20e1ea470c96949ad29632646ee8e8ab0d74b4bbfc9"
 metafile = true
 
 [[files]]
+file = "mods/ars-creo.pw.toml"
+hash = "66b4f55088bbe3837e230e94fd2fc42b1b1553e8e15c64fc899f21a6887a1963"
+metafile = true
+
+[[files]]
 file = "mods/ars-nouveau.pw.toml"
 hash = "7f1be18c4e9ca51fcc9e46046d3661fdc5b38edced758f740dfe59c128660798"
 metafile = true
@@ -52,7 +57,7 @@ metafile = true
 
 [[files]]
 file = "mods/artifacts.pw.toml"
-hash = "638ed6822274b657f1ad0e832d7d87185a4d915836543ad942c942d3728af5f9"
+hash = "9456fae932c5ecb38b5e8bc5aeb260fd94b12337e3b2fee215d25399c737d9a4"
 metafile = true
 
 [[files]]
@@ -142,7 +147,7 @@ metafile = true
 
 [[files]]
 file = "mods/controlify.pw.toml"
-hash = "620789cac1642176f434219f5f979f61b925e8f4381acb0a4367d8a4cf726984"
+hash = "489799167470cef661908196cfd78b2037234e98ff573468f5ec476404da2dd0"
 metafile = true
 
 [[files]]
@@ -152,7 +157,7 @@ metafile = true
 
 [[files]]
 file = "mods/craftpresence.pw.toml"
-hash = "7053f05ff01bd873d3df5eeecdf303498027bcb3ea1850cffacba0c9b801e9a5"
+hash = "b3719c3efe2363bbb1a4d15ebfe4e57c93cd6d07b43386f11052374b61e5a153"
 metafile = true
 
 [[files]]
@@ -507,17 +512,17 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-backpacks.pw.toml"
-hash = "f54472e9b4ec51ea6c1e0bd76ec12f04c14811b8862f8f51544923c48e6a6c07"
+hash = "56b407c4dec470be60b90316a31b1dbec122f35e7898aed53e50e1119d5cee43"
 metafile = true
 
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
-hash = "d34eb22327953a0488d6f98e71a8266848a720034e298e7d2a5d4fd656129eed"
+hash = "ccf4b5fc86b0c7a237c4b7c151d2f91a5cdd91f2c08c557d5bf746ac405cb852"
 metafile = true
 
 [[files]]
 file = "mods/sophisticated-storage-create-integration.pw.toml"
-hash = "628f6efe2c6fd54a1c508d686d482400b650d5bd63cabf0fc31c5198c109f095"
+hash = "3eff6f4e44a95aacd9d2428f9a505f02c449c479cdac30534143970a25f6e9b0"
 metafile = true
 
 [[files]]
