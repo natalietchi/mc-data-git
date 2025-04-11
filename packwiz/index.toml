@@ -41,6 +41,11 @@ hash = "6a4d5f743f7d7e4ed4ec149c46f7e74951bca7f8895f437c68a162c5eb204842"
 metafile = true
 
 [[files]]
+file = "mods/appleskin.pw.toml"
+hash = "5724ca10bd6d37de46834ab762a46f9ce09175f0a4fa0e2ab633846067940c03"
+metafile = true
+
+[[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "ea336d25c3e21ef168aec20e1ea470c96949ad29632646ee8e8ab0d74b4bbfc9"
 metafile = true
@@ -52,7 +57,7 @@ metafile = true
 
 [[files]]
 file = "mods/ars-nouveau.pw.toml"
-hash = "7f1be18c4e9ca51fcc9e46046d3661fdc5b38edced758f740dfe59c128660798"
+hash = "fe73ccdcb15c65a81f5984bdbe2e414e46a20036ab018430b8c727b88c4f4d99"
 metafile = true
 
 [[files]]
@@ -66,6 +71,11 @@ hash = "9456fae932c5ecb38b5e8bc5aeb260fd94b12337e3b2fee215d25399c737d9a4"
 metafile = true
 
 [[files]]
+file = "mods/attributefix.pw.toml"
+hash = "586341de7078015cea16ffaf8e2e198a16c43b306d70bc439a15ea0298f9d3cb"
+metafile = true
+
+[[files]]
 file = "mods/autochefs-delight.pw.toml"
 hash = "843c4a21311adf5382c4eb3af97359cd705a0546b89466f1e09434358d88407a"
 metafile = true
@@ -73,6 +83,11 @@ metafile = true
 [[files]]
 file = "mods/automatic-doors.pw.toml"
 hash = "393176040f2fbc3aa9b91e5dad0627e138d02ee29711768b3e88f2be0bf7e7b0"
+metafile = true
+
+[[files]]
+file = "mods/balm.pw.toml"
+hash = "39fa4b2a7a974569a211e96ca6f100454f15084c4e96200b3d9c304b6c172c75"
 metafile = true
 
 [[files]]
@@ -88,6 +103,11 @@ metafile = true
 [[files]]
 file = "mods/bjornlib.pw.toml"
 hash = "209056bddf4e3fde945a91ec6287a96d1d2af022f46d12cd26de665361f34cf4"
+metafile = true
+
+[[files]]
+file = "mods/bookshelf-lib.pw.toml"
+hash = "aa36f13a66eefe87cbe72bb189199bca4963d50d49d7415d9033a5930f10d365"
 metafile = true
 
 [[files]]
@@ -118,6 +138,11 @@ metafile = true
 [[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "75181b55e0407d1fca1e2f346c6501f919f5109545990ddfb66db9cd1b771f8a"
+metafile = true
+
+[[files]]
+file = "mods/clumps.pw.toml"
+hash = "2acaff560bbda5741538528a2967355ec86a8f7564adba0b2316989c66892374"
 metafile = true
 
 [[files]]
@@ -158,6 +183,11 @@ metafile = true
 [[files]]
 file = "mods/controlify.pw.toml"
 hash = "489799167470cef661908196cfd78b2037234e98ff573468f5ec476404da2dd0"
+metafile = true
+
+[[files]]
+file = "mods/controlling.pw.toml"
+hash = "65c8086d2ec3d39acc7bd36c7a0306ccc43b602b38fa07d13291bc478ef7dfff"
 metafile = true
 
 [[files]]
@@ -296,6 +326,11 @@ hash = "159ff6f2ccc1c41ef2f615c804ba8b04aa27c8273ef1845a66bc7a40fdad88e5"
 metafile = true
 
 [[files]]
+file = "mods/fzzy-config.pw.toml"
+hash = "8e5da360e375437a904021af1e7eda56fa14f1d68af363f3b6217763c63d3544"
+metafile = true
+
+[[files]]
 file = "mods/geckolib.pw.toml"
 hash = "548cf9b25748105c70af57d4f169f4f8ea9c47c1ec6ec9cae9cbe264bdf31754"
 metafile = true
@@ -406,6 +441,11 @@ hash = "7c7c332502a1e7aefedab9ba9b7db02e5de5e45b9215b2dc878cfa61eb226f48"
 metafile = true
 
 [[files]]
+file = "mods/netherportalfix.pw.toml"
+hash = "5dc059422613b5645cb00e32d3bfd53de428c4939113d11ce2c844cb54165da6"
+metafile = true
+
+[[files]]
 file = "mods/no-telemetry.pw.toml"
 hash = "ebd48452773a4b6b4b7dcedbfb71c8986ec97780fcce040542c8e8fd67f22c56"
 metafile = true
@@ -441,6 +481,16 @@ hash = "0311ca22213f4a9c8fb943619271944d3ffedf7a17f098e8c0f8fad8f897d700"
 metafile = true
 
 [[files]]
+file = "mods/packet-fixer.pw.toml"
+hash = "a4bb06abbfebf51a4dee16e88d8909c5582c3cfcaca848076cc7f63a25e0682b"
+metafile = true
+
+[[files]]
+file = "mods/particle-core.pw.toml"
+hash = "464024b6e849dd06dd9113f9b40dc7824b3c8b33baafd00416029d2331503cd3"
+metafile = true
+
+[[files]]
 file = "mods/patchouli.pw.toml"
 hash = "87fb28047d648087f2fe4891ddf9d3c394b9c5c29eaf4f3970fb7c32520e6fcf"
 metafile = true
@@ -463,6 +513,11 @@ metafile = true
 [[files]]
 file = "mods/polymorph.pw.toml"
 hash = "4b0b8296abb5d39ca3e923f4d4d2849088d785072cdb7bfa7f36cbb3acd6b3b3"
+metafile = true
+
+[[files]]
+file = "mods/prickle.pw.toml"
+hash = "7750bf1c0a66c843a06f07bd0ed7157d14ff0958e19426aadaed6ecf3034af65"
 metafile = true
 
 [[files]]
@@ -492,7 +547,7 @@ metafile = true
 
 [[files]]
 file = "mods/reliquified-ars-nouveau.pw.toml"
-hash = "11396d33b232b9860999a41274716f7696b1ed446d7abca1391751ce10b9143a"
+hash = "cd836d14d8d579eaeb174da1cbbb4eee8d9260d83cf1a29cb59a92934f62f590"
 metafile = true
 
 [[files]]
@@ -503,6 +558,11 @@ metafile = true
 [[files]]
 file = "mods/sdlink.pw.toml"
 hash = "07ff785fdc9af22eaf070294a75fff5842e4a0f28ad71ca483217ca8020f1061"
+metafile = true
+
+[[files]]
+file = "mods/searchables.pw.toml"
+hash = "ce9ddada6ffd55a512149cc474c6a453281a997a5fdf1b7b4a2cc73f875e704a"
 metafile = true
 
 [[files]]
@@ -542,12 +602,12 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-backpacks.pw.toml"
-hash = "56b407c4dec470be60b90316a31b1dbec122f35e7898aed53e50e1119d5cee43"
+hash = "7677bdb5b22027e463e6c7957fd037d6d3558f25528f166591ca11f1c8980d8b"
 metafile = true
 
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
-hash = "ccf4b5fc86b0c7a237c4b7c151d2f91a5cdd91f2c08c557d5bf746ac405cb852"
+hash = "e3b8cb69521cc61d341ef22be22a422a28a35e7dad91070e88a16d0aa196b9db"
 metafile = true
 
 [[files]]
@@ -557,7 +617,12 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-storage.pw.toml"
-hash = "d8be58efdba5e6baad1dfe80525cbdebba4aff11dd4a4b1629959bbee30d1f88"
+hash = "130f5f39acd6c37baa083edfd64c37d458b7b48f740e17d41e8d4a13e72cf5e9"
+metafile = true
+
+[[files]]
+file = "mods/spark.pw.toml"
+hash = "593fa7b30ab016aa45be07bd6bef3a9f160ed0f24689850d60bf84995d69b843"
 metafile = true
 
 [[files]]
