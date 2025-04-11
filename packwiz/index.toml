@@ -221,6 +221,11 @@ hash = "1b391fef75582ef9d935c095646a28db239ba4792a4ce0e8778b5e1650b20d5f"
 metafile = true
 
 [[files]]
+file = "mods/cubes-without-borders.pw.toml"
+hash = "8e5f6550359e71ecbea95705ec61fb03313550e6f481cabf48043929909aabae"
+metafile = true
+
+[[files]]
 file = "mods/deep-aether.pw.toml"
 hash = "21134d88b6a1063faa58aec8163a1fb63316dbbed9bce8a50c0ab9613412f92a"
 metafile = true
