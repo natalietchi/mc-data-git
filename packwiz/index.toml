@@ -296,6 +296,11 @@ hash = "91fa005deff704a0ea5bd2ee79fb6caca4408254452e2f180467898bdcb75979"
 metafile = true
 
 [[files]]
+file = "mods/explosive-enhancement-forge.pw.toml"
+hash = "2c706118f441a3dc4d0c0cc0f2ce0030cce8aa9bd26542131ab0791e0196539c"
+metafile = true
+
+[[files]]
 file = "mods/extra-mod-integrations.pw.toml"
 hash = "6f59e18621f30c6dc0ffa7f34324b423f3e3a7a8c251560c6a1dd835b6bce87a"
 metafile = true
