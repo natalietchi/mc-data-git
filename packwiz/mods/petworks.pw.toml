@@ -1,0 +1,13 @@
+name = "Petworks"
+filename = "petworks-fabric-0.2.0-beta.1+mc.1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/dAKfA83i/versions/5QMjPEDN/petworks-fabric-0.2.0-beta.1%2Bmc.1.21.1.jar"
+hash-format = "sha512"
+hash = "a9927b45f8b558c260589eb3b70174c09e8a0372344b911a928302a6b3db159b2e7c27d94d9d5fbd6cf211510573b59231635df168d8a9ec72ef72a287d2ef68"
+
+[update]
+[update.modrinth]
+mod-id = "dAKfA83i"
+version = "5QMjPEDN"

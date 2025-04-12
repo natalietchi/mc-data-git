@@ -87,7 +87,7 @@ metafile = true
 
 [[files]]
 file = "mods/balm.pw.toml"
-hash = "39fa4b2a7a974569a211e96ca6f100454f15084c4e96200b3d9c304b6c172c75"
+hash = "c6b315c304eb1a3398b44faae2cc2fa42395cf88bc9dea348534f3c1e2924c4e"
 metafile = true
 
 [[files]]
@@ -107,7 +107,7 @@ metafile = true
 
 [[files]]
 file = "mods/bookshelf-lib.pw.toml"
-hash = "aa36f13a66eefe87cbe72bb189199bca4963d50d49d7415d9033a5930f10d365"
+hash = "100d6bb216c75cbf7c2df8935f2fe98d1c419011275b8742f04b47b6d5c1f611"
 metafile = true
 
 [[files]]
@@ -207,7 +207,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-let-the-adventure-begin.pw.toml"
-hash = "622b63181af8f881fe80bcc1bdbe99c9bbc1bd60e82070235a6d220b85a0f1f8"
+hash = "ea0be6dd79237e56f5c172aae23c64311c45fd073059d8c99eb234b6a26abb4d"
 metafile = true
 
 [[files]]
@@ -392,7 +392,7 @@ metafile = true
 
 [[files]]
 file = "mods/libipn.pw.toml"
-hash = "7445dfa826ed49d416f10850a40a333bf684ffac92a78f85d40de5cbebada3ba"
+hash = "dad3fae621fe1f37422cd2bd527c237da93e79b72128a27211bbed1c2f7f7b73"
 metafile = true
 
 [[files]]
@@ -498,6 +498,11 @@ metafile = true
 [[files]]
 file = "mods/pehkui.pw.toml"
 hash = "e5141bf653c820b9967b8be2e3d9d8e83f3b54d0450f0cabe812e00cce481fdf"
+metafile = true
+
+[[files]]
+file = "mods/petworks.pw.toml"
+hash = "c0580216e0b41185ddbd3f429e2a3037049cf56260330bd3885bfdaeb86090aa"
 metafile = true
 
 [[files]]
@@ -607,7 +612,7 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
-hash = "e3b8cb69521cc61d341ef22be22a422a28a35e7dad91070e88a16d0aa196b9db"
+hash = "c68c6258d8b094a7df631b39160595e81849aa94ff1f7edef748ed008d576c13"
 metafile = true
 
 [[files]]
@@ -617,7 +622,7 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-storage.pw.toml"
-hash = "130f5f39acd6c37baa083edfd64c37d458b7b48f740e17d41e8d4a13e72cf5e9"
+hash = "e194df707a7cdf520a118597bfb1b7b8579444c4ee8fea41daed745ae65d6129"
 metafile = true
 
 [[files]]
@@ -662,7 +667,7 @@ metafile = true
 
 [[files]]
 file = "mods/travelersbackpack.pw.toml"
-hash = "83022f67e08b0212916f8a96a8d6d62791162304fdbb7851b27ccef45bf7b696"
+hash = "28cfde43bdb9eaa8e056f83ddf8504addb88785e46f236af4243c2d8a762187a"
 metafile = true
 
 [[files]]
@@ -676,8 +681,18 @@ hash = "75875de6233b9a09724376231c012fb01359f6718e28532418fe2e4853bc67be"
 metafile = true
 
 [[files]]
+file = "mods/visuality-forge.pw.toml"
+hash = "753745ebdd476d1b75252027f8cbbbba7334a71c49f9803652a53f5af111232c"
+metafile = true
+
+[[files]]
 file = "mods/vivecraft.pw.toml"
 hash = "d63e30e404e8e9550b9774e8288073608a93e5c98362fed8fc5a1957aa45a2d9"
+metafile = true
+
+[[files]]
+file = "mods/wandering-trader-may-leave.pw.toml"
+hash = "051c55887f8caa17a695e229f8931c5a8b954ec720cfae12fa96e814aa4cc193"
 metafile = true
 
 [[files]]
