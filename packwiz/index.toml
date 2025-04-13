@@ -746,6 +746,11 @@ hash = "e2ab678518f876a978414ec1b9c88896d78dcc49ee7bfefa0acc165d5388c7be"
 metafile = true
 
 [[files]]
+file = "mods/youkaishomecoming.pw.toml"
+hash = "b5138117083770f2eec64160282746f015936b98124d721d2fbcb0b6bc2966ab"
+metafile = true
+
+[[files]]
 file = "mods/yungs-api.pw.toml"
 hash = "d987d3a1b3c54d02c10d69b80903ceb9082a8e120817fa3d36a29422edfa7e02"
 metafile = true
