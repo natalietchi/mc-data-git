@@ -236,11 +236,6 @@ hash = "8e5f6550359e71ecbea95705ec61fb03313550e6f481cabf48043929909aabae"
 metafile = true
 
 [[files]]
-file = "mods/custom-player-models.pw.toml"
-hash = "ce4b995e0fd36ae1725e1121561a447358d818e1db3172d78999da042d31ba1d"
-metafile = true
-
-[[files]]
 file = "mods/deep-aether.pw.toml"
 hash = "21134d88b6a1063faa58aec8163a1fb63316dbbed9bce8a50c0ab9613412f92a"
 metafile = true
@@ -718,16 +713,6 @@ metafile = true
 [[files]]
 file = "mods/visuality-forge.pw.toml"
 hash = "753745ebdd476d1b75252027f8cbbbba7334a71c49f9803652a53f5af111232c"
-metafile = true
-
-[[files]]
-file = "mods/vivecraft-compat.pw.toml"
-hash = "e3f1422a0a9a9463b6b2f00ef86b84ad4703f96874e975e54249a6c1b2224181"
-metafile = true
-
-[[files]]
-file = "mods/vivecraft.pw.toml"
-hash = "d63e30e404e8e9550b9774e8288073608a93e5c98362fed8fc5a1957aa45a2d9"
 metafile = true
 
 [[files]]
