@@ -116,6 +116,11 @@ hash = "e0ea3ff48cc1d68a85d663fcd31f590f746c155336af74228d8023b174705442"
 metafile = true
 
 [[files]]
+file = "mods/bovines-and-buttercups.pw.toml"
+hash = "6f75fe67ac89703c10acf41aa3763086f0c7e03461da5c2d64677831b14bda8a"
+metafile = true
+
+[[files]]
 file = "mods/bundle-recipe.pw.toml"
 hash = "24839d5359a47def2ebe1a9ff9dee26a77f3480ff7c5b29f7db2080e3d0ad58d"
 metafile = true
@@ -346,6 +351,11 @@ hash = "548cf9b25748105c70af57d4f169f4f8ea9c47c1ec6ec9cae9cbe264bdf31754"
 metafile = true
 
 [[files]]
+file = "mods/happy-ghast.pw.toml"
+hash = "d7a124610ae81e7e196d95807aa0f929fdc2c3ed358ae8f4f285088b1f01a792"
+metafile = true
+
+[[files]]
 file = "mods/hugme.pw.toml"
 hash = "7f4210df7151cf887a1bc7b70883b458cca74e83308211c7dc10960a41cc2195"
 metafile = true
@@ -533,6 +543,16 @@ metafile = true
 [[files]]
 file = "mods/prickle.pw.toml"
 hash = "7750bf1c0a66c843a06f07bd0ed7157d14ff0958e19426aadaed6ecf3034af65"
+metafile = true
+
+[[files]]
+file = "mods/pride-moths.pw.toml"
+hash = "0bfd5213f65735dc90d0a444ced1fcacc1a8fcc75e9ac329a5d518babf68b45e"
+metafile = true
+
+[[files]]
+file = "mods/rapscallions-and-rockhoppers.pw.toml"
+hash = "ab1d3470c770f3fc1e4e41d0fe109283fc3db5639f3a5550f697fe9a53a3809c"
 metafile = true
 
 [[files]]
