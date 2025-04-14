@@ -436,6 +436,10 @@ hash = "28cd260c71c34d01f59ea210af1031e94d98b4d6bd72d5a153955ce754c9a76f"
 metafile = true
 
 [[files]]
+file = "mods/mod.jar"
+hash = "4582a59c328d93d343ddcb5eaacca0777c8ee9a83894cfcb07d31c7410e693c6"
+
+[[files]]
 file = "mods/model-gap-fix.pw.toml"
 hash = "de97e04da7383f948463a2c2dd73884a474a9b20a64591061dd27cd0bc8988c2"
 metafile = true
