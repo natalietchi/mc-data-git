@@ -116,11 +116,6 @@ hash = "9eefd607e0d54ec444e798ccdeede1a09a3939440bd1e11c11b84c07a5134be2"
 metafile = true
 
 [[files]]
-file = "mods/domestication-innovation.pw.toml"
-hash = "bfd2911d1fc7136f92be93d4e3081b85f30109373ac640fbac2e3b3896d709f2"
-metafile = true
-
-[[files]]
 file = "mods/drogstyle.pw.toml"
 hash = "929117b53b88229ad2d1110fbcd4fa2906a70c09ab7409ec7bb7e1e9d475cb48"
 metafile = true
