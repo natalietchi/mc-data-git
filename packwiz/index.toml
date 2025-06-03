@@ -466,6 +466,16 @@ hash = "a67428b929aff24f6ae728600ee7d5f1ab814d7e3e362e16b59660c48151d50b"
 metafile = true
 
 [[files]]
+file = "mods/toomanyorigins.pw.toml"
+hash = "1ec4dd2f799fc11d14d26040b6ca4a59ebb93add10ed7cc6714d8cd5f280c1fd"
+metafile = true
+
+[[files]]
+file = "mods/toomanyoriginsminus.pw.toml"
+hash = "be2a3ddefa3347b98d2d55d3304c2f579c0fe8f6bd39454ef4f981feb5f99001"
+metafile = true
+
+[[files]]
 file = "mods/tree-harvester.pw.toml"
 hash = "d6ddde622109dc5072e84fc6493c44950314594864a74495d898bcefbd3f2e8b"
 metafile = true
