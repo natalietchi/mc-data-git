@@ -376,21 +376,6 @@ hash = "d247fe0ad5c3c74b3fc7f29db3b9f9d6897cac0ed2da10ef9419a26878861c7b"
 metafile = true
 
 [[files]]
-file = "mods/sodium-dynamic-lights.pw.toml"
-hash = "82bb7cd6c8b68bb1831bb7c374bd316b6403cd01195d582f19c31076c908953a"
-metafile = true
-
-[[files]]
-file = "mods/sodium-extras.pw.toml"
-hash = "968e14e9f71820264208b5b9690f58ff7258b06863104c41a7752b1561491cb4"
-metafile = true
-
-[[files]]
-file = "mods/sodium-options-api.pw.toml"
-hash = "75a60e6b443b351b7a4a78ffce7c71e44b3e20ca10c374aea1de516c785d6e2d"
-metafile = true
-
-[[files]]
 file = "mods/sophisticated-backpacks-create-integration.pw.toml"
 hash = "7c977a68e1c06707099b5e194e67f042a336dab4eb509e7cd22c02728e81369a"
 metafile = true
