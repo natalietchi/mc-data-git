@@ -112,7 +112,7 @@ metafile = true
 
 [[files]]
 file = "mods/create.pw.toml"
-hash = "1eceb4e4ab86c793f992ce9444e92f46dae76c3f744d8e19feb1143fb6c01939"
+hash = "119d501c87aef8afa8cf89ed6f17499518c21240d7781f4331e3007e57957a79"
 metafile = true
 
 [[files]]
@@ -163,11 +163,6 @@ metafile = true
 [[files]]
 file = "mods/emitrades.pw.toml"
 hash = "16b4a8a6c29d642b83ccfb68729c6520928fef115551d43aa301da72ca9498cd"
-metafile = true
-
-[[files]]
-file = "mods/estrogen.pw.toml"
-hash = "e01c4925198bbcfd4cb3c00e0f89db7a45d3b56a3812b84b9b10535ab9455a28"
 metafile = true
 
 [[files]]
