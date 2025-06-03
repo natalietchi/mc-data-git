@@ -266,11 +266,6 @@ hash = "4ee6b38fbd604374f4703b852ebe2119c6493ae09b88f6398ab256e423bd5d4a"
 metafile = true
 
 [[files]]
-file = "mods/omnicore.pw.toml"
-hash = "37fd683b89bc28f080a9f58167d8a731617100dfa7ca76d49ce06cc31b58f51f"
-metafile = true
-
-[[files]]
 file = "mods/ore-harvester.pw.toml"
 hash = "36940c04cf3f98987ecd70cf582f018ab27ee6b023ad957c4f966a6024d4ecb3"
 metafile = true
