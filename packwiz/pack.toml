@@ -1,15 +1,13 @@
-name = "fellaserver"
-author = "disksys"
+name = "disk2"
+author = "disk"
 version = "1.0.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "fdd608a1adfbbf90f46e2e06331004a77a06a572eee63aeb0ed4187ee9d583ad"
+hash = "841f5826de08efdcbde5786ceaa79d518951c685b87ffebcba5b70209ee62422"
 
 [versions]
-minecraft = "1.21.1"
-neoforge = "21.1.140"
-
-[options]
+minecraft = "1.20.1"
+neoforge = "47.1.106"

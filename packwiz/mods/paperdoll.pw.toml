@@ -1,0 +1,13 @@
+name = "PaperDoll"
+filename = "paperdoll-forge-1.3.0-mc1.20.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/edwFXb9k/versions/LHXTBOnO/paperdoll-forge-1.3.0-mc1.20.1.jar"
+hash-format = "sha512"
+hash = "0a7e31dc267fc1bd19190ee728f7c32edb7ba93d396cca3bcfa2f2cb309129521299de81a4ade958195e2e124e83e28e4fb3b8c292b38ff7dac5ff8d146e2b88"
+
+[update]
+[update.modrinth]
+mod-id = "edwFXb9k"
+version = "LHXTBOnO"

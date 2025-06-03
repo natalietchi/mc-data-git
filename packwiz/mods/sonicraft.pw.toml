@@ -1,0 +1,13 @@
+name = "SoniCraft"
+filename = "sonicraft-1.9.1-forge-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/SpdllB1s/versions/TI08EhOp/sonicraft-1.9.1-forge-1.20.1.jar"
+hash-format = "sha512"
+hash = "2f26bc8e8d9e27be0e79e44b568ead0f14339c2bdc44bf1caa75acf9b47431992791f262d272bacb84882952fbad8f5baee872b17dc31c1718d4bedaf44a8ef3"
+
+[update]
+[update.modrinth]
+mod-id = "SpdllB1s"
+version = "TI08EhOp"
