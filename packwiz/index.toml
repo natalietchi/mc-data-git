@@ -211,18 +211,8 @@ hash = "23094702ea97f590631f42ab202697fd0810701f8f5475b838475e81aeec6d11"
 metafile = true
 
 [[files]]
-file = "mods/geckolib.pw.toml"
-hash = "a66ce8fdd15abadd17b5d3d62e5bca0afe8209c081c8be1407b0e6166c8714d9"
-metafile = true
-
-[[files]]
 file = "mods/ice-and-fire-dragons.pw.toml"
 hash = "3e8cbae6a944592a6485b8c5e62b0794fe950ba8a6b155302d08f4205b9ad9b3"
-metafile = true
-
-[[files]]
-file = "mods/idas.pw.toml"
-hash = "675609a9fb0ed19788e460191f2fba6279e56e63d702c3d506e6e1a1c0c9ffb0"
 metafile = true
 
 [[files]]
@@ -348,11 +338,6 @@ metafile = true
 [[files]]
 file = "mods/projectsavethepets.pw.toml"
 hash = "494325529fe5e8669fcc28a4a53698bcf9659cc1392f36525a6f7ff33546fc29"
-metafile = true
-
-[[files]]
-file = "mods/quark.pw.toml"
-hash = "8df897c0f7831e919aa528c3c1e5239f39439c123d99761230ab2357132bad98"
 metafile = true
 
 [[files]]
@@ -493,11 +478,6 @@ metafile = true
 [[files]]
 file = "mods/yacl.pw.toml"
 hash = "f3b3d035b89519faccc4ddd8b0b4407ce96c0eb49068fe50a445d43a3baa8bea"
-metafile = true
-
-[[files]]
-file = "mods/zeta.pw.toml"
-hash = "4bcf74d4569def60ca031d565350952c2edcc420f26278bc7997654a77b6fb4d"
 metafile = true
 
 [[files]]
