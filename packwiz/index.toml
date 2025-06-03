@@ -432,7 +432,7 @@ metafile = true
 
 [[files]]
 file = "mods/textile-lib.pw.toml"
-hash = "c4860d710bac9503ebb4729629e29f45736287527b8f17a857783a4d45a081aa"
+hash = "54525a544e3e2028701324495ba32c997d4e38b6e613849d5abeaa07227c20ee"
 metafile = true
 
 [[files]]

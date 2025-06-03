@@ -1,13 +1,13 @@
 name = "Textile"
-filename = "textile-0.17.0+1.20.1-forge.jar"
+filename = "textile-0.16.0+1.20.1-forge.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/T0Zb6DLv/versions/Twyw82m1/textile-0.17.0%2B1.20.1-forge.jar"
+url = "https://cdn.modrinth.com/data/T0Zb6DLv/versions/RExkTfcZ/textile-0.16.0%2B1.20.1-forge.jar"
 hash-format = "sha512"
-hash = "d595b7fd587b91de877e90913f8266f13f32479da40ad38733bf6049d3da10ab1be6c2eb5be0df44cae9fe8d73358c10c0e392287237e9a844e4e080fb4caf1c"
+hash = "6065feb78a6872bb97f5b9938f69a0d4f568fe178d48af3d79212ffaa7da50456860967845a327b9f2895a846394d20e8456be13bac72900db0d02f80868ae92"
 
 [update]
 [update.modrinth]
 mod-id = "T0Zb6DLv"
-version = "Twyw82m1"
+version = "RExkTfcZ"
