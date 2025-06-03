@@ -431,11 +431,6 @@ hash = "9e17d9e6d357ec4e0ecd74c1c1926e8d743becf999128e66b8da99043eedcc6d"
 metafile = true
 
 [[files]]
-file = "mods/textile-lib.pw.toml"
-hash = "54525a544e3e2028701324495ba32c997d4e38b6e613849d5abeaa07227c20ee"
-metafile = true
-
-[[files]]
 file = "mods/tinkerers-smithing.pw.toml"
 hash = "a67428b929aff24f6ae728600ee7d5f1ab814d7e3e362e16b59660c48151d50b"
 metafile = true
