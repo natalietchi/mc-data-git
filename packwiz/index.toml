@@ -116,11 +116,6 @@ hash = "119d501c87aef8afa8cf89ed6f17499518c21240d7781f4331e3007e57957a79"
 metafile = true
 
 [[files]]
-file = "mods/cubes-without-borders.pw.toml"
-hash = "ac4cbd7785b8c70de4037162d6626910633e6b997c957e90de961316716e8402"
-metafile = true
-
-[[files]]
 file = "mods/curios.pw.toml"
 hash = "9eefd607e0d54ec444e798ccdeede1a09a3939440bd1e11c11b84c07a5134be2"
 metafile = true
@@ -413,11 +408,6 @@ metafile = true
 [[files]]
 file = "mods/sodium-options-api.pw.toml"
 hash = "75a60e6b443b351b7a4a78ffce7c71e44b3e20ca10c374aea1de516c785d6e2d"
-metafile = true
-
-[[files]]
-file = "mods/sonicraft.pw.toml"
-hash = "4c752fcd29d40c50a009f5c2a0becbf9c7942d6b2bbf69ca117184fc1ec711a3"
 metafile = true
 
 [[files]]
