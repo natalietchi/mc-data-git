@@ -112,7 +112,7 @@ metafile = true
 
 [[files]]
 file = "mods/create.pw.toml"
-hash = "119d501c87aef8afa8cf89ed6f17499518c21240d7781f4331e3007e57957a79"
+hash = "1eceb4e4ab86c793f992ce9444e92f46dae76c3f744d8e19feb1143fb6c01939"
 metafile = true
 
 [[files]]
@@ -256,6 +256,11 @@ hash = "d4ce1e57da773c6157f3208eadc40d5962be2bb1d2747eae169debb6d50a543f"
 metafile = true
 
 [[files]]
+file = "mods/kiwi.pw.toml"
+hash = "06891bb68a15a222e4e24b47f2167028d45bb55525a89dc30c680baf67797d82"
+metafile = true
+
+[[files]]
 file = "mods/kotlin-for-forge.pw.toml"
 hash = "7ea985404ee4cc9082472c6869ec146309f526e395361b39f2f4c1a43506c41d"
 metafile = true
@@ -283,11 +288,6 @@ metafile = true
 [[files]]
 file = "mods/no-telemetry.pw.toml"
 hash = "ebd48452773a4b6b4b7dcedbfb71c8986ec97780fcce040542c8e8fd67f22c56"
-metafile = true
-
-[[files]]
-file = "mods/noteable.pw.toml"
-hash = "1fd28cf69ff7420155870a5ab6343726a7301ad14b53afbf7b3977c80e64622b"
 metafile = true
 
 [[files]]
@@ -503,6 +503,11 @@ metafile = true
 [[files]]
 file = "mods/yacl.pw.toml"
 hash = "f3b3d035b89519faccc4ddd8b0b4407ce96c0eb49068fe50a445d43a3baa8bea"
+metafile = true
+
+[[files]]
+file = "mods/zeta.pw.toml"
+hash = "4bcf74d4569def60ca031d565350952c2edcc420f26278bc7997654a77b6fb4d"
 metafile = true
 
 [[files]]
