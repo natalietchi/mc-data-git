@@ -216,6 +216,11 @@ hash = "23094702ea97f590631f42ab202697fd0810701f8f5475b838475e81aeec6d11"
 metafile = true
 
 [[files]]
+file = "mods/geckolib.pw.toml"
+hash = "a66ce8fdd15abadd17b5d3d62e5bca0afe8209c081c8be1407b0e6166c8714d9"
+metafile = true
+
+[[files]]
 file = "mods/ice-and-fire-dragons.pw.toml"
 hash = "3e8cbae6a944592a6485b8c5e62b0794fe950ba8a6b155302d08f4205b9ad9b3"
 metafile = true
@@ -308,6 +313,11 @@ metafile = true
 [[files]]
 file = "mods/origins-minus.pw.toml"
 hash = "1e66966105725bf715aa7565b5f0cd9c3cd587b7d31d6c8d6c274b661c10ca49"
+metafile = true
+
+[[files]]
+file = "mods/origins-player-scale.pw.toml"
+hash = "de6124794a4ddd6df9299536c9f4164a690f85a1b2de76a38b3ec7564be3fcd5"
 metafile = true
 
 [[files]]
@@ -406,6 +416,11 @@ hash = "75a60e6b443b351b7a4a78ffce7c71e44b3e20ca10c374aea1de516c785d6e2d"
 metafile = true
 
 [[files]]
+file = "mods/sonicraft.pw.toml"
+hash = "4c752fcd29d40c50a009f5c2a0becbf9c7942d6b2bbf69ca117184fc1ec711a3"
+metafile = true
+
+[[files]]
 file = "mods/sophisticated-backpacks-create-integration.pw.toml"
 hash = "7c977a68e1c06707099b5e194e67f042a336dab4eb509e7cd22c02728e81369a"
 metafile = true
@@ -448,11 +463,6 @@ metafile = true
 [[files]]
 file = "mods/tinkerers-smithing.pw.toml"
 hash = "a67428b929aff24f6ae728600ee7d5f1ab814d7e3e362e16b59660c48151d50b"
-metafile = true
-
-[[files]]
-file = "mods/tinkerers-statures.pw.toml"
-hash = "9f8bf08de796818ab1a4d7fbfefd15fa1c69e8411dce31065863b319011159ca"
 metafile = true
 
 [[files]]
