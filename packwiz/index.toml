@@ -281,11 +281,6 @@ hash = "4ee6b38fbd604374f4703b852ebe2119c6493ae09b88f6398ab256e423bd5d4a"
 metafile = true
 
 [[files]]
-file = "mods/oculus.pw.toml"
-hash = "f83b253ca6a8e6f2f847952704da0e1fb00e65cbb10b7c9cb15d1a1780618da0"
-metafile = true
-
-[[files]]
 file = "mods/omnicore.pw.toml"
 hash = "37fd683b89bc28f080a9f58167d8a731617100dfa7ca76d49ce06cc31b58f51f"
 metafile = true
