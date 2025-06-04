@@ -131,6 +131,11 @@ hash = "a26cea970dd7ffc20aeb983912e72ba57e83f6e1a42a661a5b4250f77de25650"
 metafile = true
 
 [[files]]
+file = "mods/compact-help-command.pw.toml"
+hash = "3022c398efae3831567cddd9007e35247a826370ab5e117d74e8e71924384c17"
+metafile = true
+
+[[files]]
 file = "mods/connector-extras.pw.toml"
 hash = "d8480ee1f6ae58fa389e502108bcde4936ca326d6dc2f1608b9af9ac141cb35a"
 metafile = true
@@ -548,6 +553,11 @@ metafile = true
 [[files]]
 file = "mods/switchy.pw.toml"
 hash = "54fc0226cae028233f4c2be39734e50de0d00702aa8c8a57ed617fa1ec973e46"
+metafile = true
+
+[[files]]
+file = "mods/teleportcraft.pw.toml"
+hash = "9d691dc825b9805a5a8ec4b51fd6e36f3c742ed60936930ba7b0ae6126a87e36"
 metafile = true
 
 [[files]]
