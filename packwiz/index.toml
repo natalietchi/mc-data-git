@@ -237,7 +237,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabrictailor.pw.toml"
-hash = "836edcd4b01e581d106f4f05a306d66b03feff05a7b8037017d89cfd8ab3d68b"
+hash = "0db682bb6d3cd01a530ed20898e5b52d0743253a74c42cc1848d56d4cd2a0e59"
 metafile = true
 
 [[files]]
