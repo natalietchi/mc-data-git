@@ -26,11 +26,6 @@ hash = "416c089224a401ec7c0ef60ae6f1f8555e783f89ec6aba49d72f41c58d7955d2"
 metafile = true
 
 [[files]]
-file = "mods/amendments.pw.toml"
-hash = "f6cb39881349ebcd51d5ea8563110dd0fb861b66c18f7a261eabe1ef41563cd2"
-metafile = true
-
-[[files]]
 file = "mods/apathy.pw.toml"
 hash = "1e4dd540e62009812d46842cb9ef0dd3a964a60f36381cd8063fd8117a7a1d8a"
 metafile = true
