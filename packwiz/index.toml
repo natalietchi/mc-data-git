@@ -546,6 +546,11 @@ hash = "985d34e70842a5c8e0a8a4e35be894e5f5c6d0dcbe25f2a8f74a45616d32be33"
 metafile = true
 
 [[files]]
+file = "mods/styled-nicknames.pw.toml"
+hash = "df3dab0a368d87080cf735e0c0a253962e47a9ed6b40054736b52e375a471e2d"
+metafile = true
+
+[[files]]
 file = "mods/supplementaries.pw.toml"
 hash = "8e4a88ac887cf91f870804cd5a4730e318dc68b927b7634c2adb9d6b78fc04d1"
 metafile = true
