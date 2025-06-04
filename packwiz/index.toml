@@ -176,6 +176,11 @@ hash = "4063abe583282834b2f78e3b3e6b9ee4d231a680f74c020e405a4ef196f21ee4"
 metafile = true
 
 [[files]]
+file = "mods/coroutil.pw.toml"
+hash = "b2c7739b56ef71f50a86658cfa67375796beafd391c4dbe26a5de8cd92b9b685"
+metafile = true
+
+[[files]]
 file = "mods/craftpresence.pw.toml"
 hash = "17a10532b2a12768f31f8bd209024312e6e224d01f87c8476704000b40d2334e"
 metafile = true
@@ -303,6 +308,21 @@ metafile = true
 [[files]]
 file = "mods/idas.pw.toml"
 hash = "675609a9fb0ed19788e460191f2fba6279e56e63d702c3d506e6e1a1c0c9ffb0"
+metafile = true
+
+[[files]]
+file = "mods/immersive-melodies.pw.toml"
+hash = "badaab4d45a8d5b5e477d3e49697671a012a8148d8f0b4439095d1aa042ffdd6"
+metafile = true
+
+[[files]]
+file = "mods/immersive-optimization.pw.toml"
+hash = "976de93f788a24c01590e07b3c0d9c70bfbc8093593ff80d5e479c0aceec2e3d"
+metafile = true
+
+[[files]]
+file = "mods/immersive-paintings.pw.toml"
+hash = "d63d6a68c8389cbc48ec3fe181d5b465d8fbd829923618951b00e60c97f78500"
 metafile = true
 
 [[files]]
@@ -591,11 +611,6 @@ hash = "14117b94c456598c9acece143c7a0da3cf56d13182d035a74a2da8a52dd19cbd"
 metafile = true
 
 [[files]]
-file = "mods/tinkerers-smithing.pw.toml"
-hash = "5e654c6b2b2530ee3c74a2e6638ebb4cf1a170ca9ae9b9e391c34de3915e3f2f"
-metafile = true
-
-[[files]]
 file = "mods/tinkerers-statures.pw.toml"
 hash = "9f8bf08de796818ab1a4d7fbfefd15fa1c69e8411dce31065863b319011159ca"
 metafile = true
@@ -631,8 +646,18 @@ hash = "556cc110b9fb8ca07e24a59437b32dfbe44929cdd8621c0fc6e51083e3297e3a"
 metafile = true
 
 [[files]]
+file = "mods/villager-names-serilum.pw.toml"
+hash = "3cfc1070e53b96ec42fadea40770178eb4a2fdb50246879f570b164c2eb7b197"
+metafile = true
+
+[[files]]
 file = "mods/visuality-forge.pw.toml"
 hash = "736738062381bec4d55b726546b4fab7443bea0e5983e8af65b90c56da72da06"
+metafile = true
+
+[[files]]
+file = "mods/what-are-they-up-to.pw.toml"
+hash = "c557d1b26559ef987c229187d2f2705616e78179ce04fa1c96cc3d76a1cdf1b5"
 metafile = true
 
 [[files]]
