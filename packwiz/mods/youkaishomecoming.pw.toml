@@ -1,0 +1,13 @@
+name = "Youkai's Homecoming"
+filename = "youkaishomecoming-2.4.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/uJT3ahxz/versions/jEnLmVsn/youkaishomecoming-2.4.3.jar"
+hash-format = "sha512"
+hash = "aa3e0a475fbffa1005ce55dcf959f62c7f6c1344c6fbb4031d098e89d38edf2384593f0e4bbed2848702ea9b87ec786fd192a7ec2c4efa6a7a13ba5bbddf074a"
+
+[update]
+[update.modrinth]
+mod-id = "uJT3ahxz"
+version = "jEnLmVsn"

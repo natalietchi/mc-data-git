@@ -46,13 +46,28 @@ hash = "4e81241ba2da06f425efc5e09fb6b38470125c1581c39e1310c5843a0b96ec76"
 metafile = true
 
 [[files]]
+file = "mods/ars-creo.pw.toml"
+hash = "0502e2b33b08fe5920ff1ea61d3cd3c86d9e93ff234af56088c63dff4c189733"
+metafile = true
+
+[[files]]
 file = "mods/ars-nouveau.pw.toml"
 hash = "71f03c33669516ce50b789b191989ce1a0566c51c48676cc8d49907e23217ac7"
 metafile = true
 
 [[files]]
+file = "mods/arsdelight.pw.toml"
+hash = "710e7c2423c8a14f2037f88e955544ad55d54460a1f2e5b884b34d60aa1cb0b1"
+metafile = true
+
+[[files]]
 file = "mods/artifacts.pw.toml"
 hash = "a41a3cf3204c48e0a0b48acbad66ff4dbd71a94942cb4955973a7059b686aa05"
+metafile = true
+
+[[files]]
+file = "mods/autochefs-delight.pw.toml"
+hash = "bd4ea05a561f0c2d71cc1d7f650e058fb95330fdf2e0166d365179e97db86fef"
 metafile = true
 
 [[files]]
@@ -133,6 +148,11 @@ metafile = true
 [[files]]
 file = "mods/compact-help-command.pw.toml"
 hash = "3022c398efae3831567cddd9007e35247a826370ab5e117d74e8e71924384c17"
+metafile = true
+
+[[files]]
+file = "mods/companion.pw.toml"
+hash = "3b39a2d065b49fe8347accf4f8aaf5c562883f6555108bf279c226cec41d614b"
 metafile = true
 
 [[files]]
@@ -296,6 +316,11 @@ hash = "e021e02498726e2976cb713722733dfec7bd45d4b1b93738e06f76822873a198"
 metafile = true
 
 [[files]]
+file = "mods/jade-addons-forge.pw.toml"
+hash = "f8312021fd88a4952e1d50a2f156fab65314f87658d7153efc56be76a422d5cd"
+metafile = true
+
+[[files]]
 file = "mods/jade.pw.toml"
 hash = "66a8d44f5ef66075063ced8b54312a46bb8a256090d36df877b8ff58de9d16be"
 metafile = true
@@ -433,11 +458,6 @@ metafile = true
 [[files]]
 file = "mods/pride-moths.pw.toml"
 hash = "c5528edc8a73626ab41fd10d8ccd352e532dbd0197ff69a2eb433a36b082e503"
-metafile = true
-
-[[files]]
-file = "mods/projectsavethepets.pw.toml"
-hash = "494325529fe5e8669fcc28a4a53698bcf9659cc1392f36525a6f7ff33546fc29"
 metafile = true
 
 [[files]]
@@ -628,6 +648,11 @@ metafile = true
 [[files]]
 file = "mods/yacl.pw.toml"
 hash = "f3b3d035b89519faccc4ddd8b0b4407ce96c0eb49068fe50a445d43a3baa8bea"
+metafile = true
+
+[[files]]
+file = "mods/youkaishomecoming.pw.toml"
+hash = "4b0ac017b33c5cb7b161506b7934793884a678c0499e3aa2e8852cfd6f9b2db3"
 metafile = true
 
 [[files]]
