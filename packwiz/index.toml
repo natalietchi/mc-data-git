@@ -16,6 +16,11 @@ hash = "0cbc4b2c6b58b7a94f030ae84f18057e5dc78a17bad429f40b8884926a6ab233"
 metafile = true
 
 [[files]]
+file = "mods/alexs-delight.pw.toml"
+hash = "99f6d4e46f784953d16aa1ce5f72327b21487dc0e27d3143c8a6b60c6d02381a"
+metafile = true
+
+[[files]]
 file = "mods/alexs-mobs.pw.toml"
 hash = "e1016eb125a5a41a10f80847eb00affae0e539e703846f303949ed5d82b7f1bf"
 metafile = true
@@ -108,6 +113,11 @@ metafile = true
 [[files]]
 file = "mods/caelus.pw.toml"
 hash = "8a8ea0af79b88d9c192d208aa5be4bacd934e2b92d4721566e2e796eb9761e10"
+metafile = true
+
+[[files]]
+file = "mods/cave-delight.pw.toml"
+hash = "894a277b7b905d2f067b402f07d00ae561956ee4463e320010e2fb15a8130d6f"
 metafile = true
 
 [[files]]
