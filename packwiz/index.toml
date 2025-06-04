@@ -56,6 +56,11 @@ hash = "a41a3cf3204c48e0a0b48acbad66ff4dbd71a94942cb4955973a7059b686aa05"
 metafile = true
 
 [[files]]
+file = "mods/automatic-doors.pw.toml"
+hash = "8d0668a007fa90474c8c77b543df65f4a75e912b70dd62a7fd7dea06190bb132"
+metafile = true
+
+[[files]]
 file = "mods/badpackets.pw.toml"
 hash = "0083555f3f8a180241b81287a0998f028c7377751c86f2755e734b3b29f9fd3b"
 metafile = true
@@ -386,11 +391,6 @@ hash = "326b20bf1d270a5611e5d3e4d3f375583673328c2230a52a51cbc9ade825e7d7"
 metafile = true
 
 [[files]]
-file = "mods/paperdoll.pw.toml"
-hash = "b371ec53b22e4c119673c24d2a8dee42605cbd8345ba5a6c3612358fd425d906"
-metafile = true
-
-[[files]]
 file = "mods/particular-reforged.pw.toml"
 hash = "dea8dac2f0140577cdccf1869abe2dec6fafa5a47442501bf2bc0fadeea6edf2"
 metafile = true
@@ -688,6 +688,11 @@ metafile = true
 [[files]]
 file = "mods/zeta.pw.toml"
 hash = "4bcf74d4569def60ca031d565350952c2edcc420f26278bc7997654a77b6fb4d"
+metafile = true
+
+[[files]]
+file = "mods/zombie-proof-doors.pw.toml"
+hash = "1fff19b122b0060082cc3fd64848cbb8c5f8f468baf279eb8df98c85c0b3b4f1"
 metafile = true
 
 [[files]]
