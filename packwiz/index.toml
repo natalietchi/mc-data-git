@@ -542,7 +542,7 @@ metafile = true
 
 [[files]]
 file = "mods/switchy.pw.toml"
-hash = "9e17d9e6d357ec4e0ecd74c1c1926e8d743becf999128e66b8da99043eedcc6d"
+hash = "54fc0226cae028233f4c2be39734e50de0d00702aa8c8a57ed617fa1ec973e46"
 metafile = true
 
 [[files]]
@@ -597,12 +597,12 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "b000d0545976048ed0bcd4276a47168c5eac0344fe404b07e67761d79a9c89cc"
+hash = "706420069724cb39b5cc44c7954ef40c23d81488ee0b88791ff3fd849553e8ab"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "95650f26d33823363d0003ff801e081f4c1e9e33d88a4fc871ebc7ec33b72ac5"
+hash = "5cbaea012e19483f14dfdc26181a86b6b2bc8ec2f8b757260ce1d8d0ff101979"
 metafile = true
 
 [[files]]
