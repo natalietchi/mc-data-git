@@ -71,6 +71,11 @@ hash = "58396d4cd2dee0f75cf56def0ab301021b6e09a83bd2564212152f0a73433568"
 metafile = true
 
 [[files]]
+file = "mods/blueprint.pw.toml"
+hash = "790de162313fcbe950496580db107eb8da2ae29060cbf611764d1bb352461d03"
+metafile = true
+
+[[files]]
 file = "mods/botarium.pw.toml"
 hash = "440a806e54d48cd4c5ef447ff8f1a6cd9a99d53d02ab90d50204be9b31c2f30d"
 metafile = true
