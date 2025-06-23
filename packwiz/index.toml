@@ -256,11 +256,6 @@ hash = "f0b4372343e873512d57e5ee877f37362f8dde8e75771075abe44686509294b9"
 metafile = true
 
 [[files]]
-file = "mods/emiffect.pw.toml"
-hash = "fe3b678eca599ed26cfe7c5d17b780119c0d2d39ef596720ededfc66874a15c0"
-metafile = true
-
-[[files]]
 file = "mods/emitrades.pw.toml"
 hash = "16b4a8a6c29d642b83ccfb68729c6520928fef115551d43aa301da72ca9498cd"
 metafile = true
