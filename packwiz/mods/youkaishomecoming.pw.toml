@@ -1,13 +1,13 @@
 name = "Youkai's Homecoming"
-filename = "youkaishomecoming-2.4.3.jar"
+filename = "youkaishomecoming-2.4.10.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/uJT3ahxz/versions/jEnLmVsn/youkaishomecoming-2.4.3.jar"
+url = "https://cdn.modrinth.com/data/uJT3ahxz/versions/LjfYGHLO/youkaishomecoming-2.4.10.jar"
 hash-format = "sha512"
-hash = "aa3e0a475fbffa1005ce55dcf959f62c7f6c1344c6fbb4031d098e89d38edf2384593f0e4bbed2848702ea9b87ec786fd192a7ec2c4efa6a7a13ba5bbddf074a"
+hash = "ee901ef8e4edba3db0efe62630a7e97003fb34d04d89880348f3f76813b02d97b2782ebb3eb12839d49b66528bb6a9713ee72ca7a0db97f5937b33b2b831d41e"
 
 [update]
 [update.modrinth]
 mod-id = "uJT3ahxz"
-version = "jEnLmVsn"
+version = "LjfYGHLO"
