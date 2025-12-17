@@ -6,6 +6,16 @@ hash = "de8c3546c0385ff9bdf997d3137b7ed19da929e2931bdca5d287a269f2c343a5"
 metafile = true
 
 [[files]]
+file = "mods/accessories-compat-layer.pw.toml"
+hash = "9f3abbba0805d021f4fec52693732de1c098ab6049f6065b9be494e9c339eeee"
+metafile = true
+
+[[files]]
+file = "mods/accessories.pw.toml"
+hash = "5b786ab7a57e37ec4b8f888157f79608e871653fc4b6a8cba0296690fe863704"
+metafile = true
+
+[[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "6d3a1c92eee4dd671253c41ec000ae48064a33c45263d6adce5cad466395169d"
 metafile = true
@@ -102,7 +112,7 @@ metafile = true
 
 [[files]]
 file = "mods/curios.pw.toml"
-hash = "f92e7a06645e41ea1934dc420eb2772edb1708c0d71cb427baef8cf753acb934"
+hash = "36debf7653e95a855b4fedacc19027cf2e01960fc0b6d55ef2ffbffbcb455690"
 metafile = true
 
 [[files]]
@@ -231,6 +241,11 @@ hash = "32f8d722b8e90a4ded120d3cbc7d6718d7bc2ea57a292af725978117710a6490"
 metafile = true
 
 [[files]]
+file = "mods/owo-lib.pw.toml"
+hash = "46831c04077a06df823bcd0f254833a90a9a9ccc78f5069f4b4c27fa301ac0cf"
+metafile = true
+
+[[files]]
 file = "mods/perception.pw.toml"
 hash = "0151c79c4b39d79ad9343ba8d09d7c1722d44b3c056f9337837628628922335d"
 metafile = true
@@ -248,6 +263,11 @@ metafile = true
 [[files]]
 file = "mods/re-animal.pw.toml"
 hash = "4a9d91d42c87524eb3971456987857dc86d30cafba2841c978c92e077107d3da"
+metafile = true
+
+[[files]]
+file = "mods/relics-mod.pw.toml"
+hash = "04540909c8a46aaacf83e7a7098489e5211b0fb2c323dbb3931e45755e52ffcb"
 metafile = true
 
 [[files]]
