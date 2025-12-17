@@ -251,21 +251,6 @@ hash = "4a9d91d42c87524eb3971456987857dc86d30cafba2841c978c92e077107d3da"
 metafile = true
 
 [[files]]
-file = "mods/relics-mod.pw.toml"
-hash = "04540909c8a46aaacf83e7a7098489e5211b0fb2c323dbb3931e45755e52ffcb"
-metafile = true
-
-[[files]]
-file = "mods/reliquified-ars-nouveau.pw.toml"
-hash = "2cba8e3227209edcb88307aa9cddfb6362dad9b9ab96596ad519913f8e60a196"
-metafile = true
-
-[[files]]
-file = "mods/reliquified-twilight-forest.pw.toml"
-hash = "ea80cd43856df236cdfc3f5b2a826e2965eb83d4f35cf465ccbd61c4b5b02bf7"
-metafile = true
-
-[[files]]
 file = "mods/searchables.pw.toml"
 hash = "ce9ddada6ffd55a512149cc474c6a453281a997a5fdf1b7b4a2cc73f875e704a"
 metafile = true
