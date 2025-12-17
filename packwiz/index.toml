@@ -36,6 +36,11 @@ hash = "730498992eb3dad74a9bf9d9cd0cc104e4e205230bf76851f605c2d1a2b16bff"
 metafile = true
 
 [[files]]
+file = "mods/ash-api.pw.toml"
+hash = "a21ec74ef94497a50d3de5ca21eb31b061f98295f052d658ed4f3f49bc46d13e"
+metafile = true
+
+[[files]]
 file = "mods/atmospheric.pw.toml"
 hash = "af6c0039538f5f5387184e6d055d5b5afe5f58de42ab451271d69e810d09eefb"
 metafile = true
@@ -286,6 +291,11 @@ hash = "7b8e8af83e8583adc91b2d859e5355f1bd0516a346d2584b8b01c004467d18af"
 metafile = true
 
 [[files]]
+file = "mods/lithostitched.pw.toml"
+hash = "a14ce90c0dca8c48481e27761612a20a3197f942c7b32f39470e5f9de97e356b"
+metafile = true
+
+[[files]]
 file = "mods/macaws-bridges.pw.toml"
 hash = "c6887c071d6515a39aeb915429304ea9fdae876decde3ad66062c9ba779b16b4"
 metafile = true
@@ -328,6 +338,11 @@ metafile = true
 [[files]]
 file = "mods/owo-lib.pw.toml"
 hash = "46831c04077a06df823bcd0f254833a90a9a9ccc78f5069f4b4c27fa301ac0cf"
+metafile = true
+
+[[files]]
+file = "mods/paintings.pw.toml"
+hash = "80c072e912fa697150c9bc5a662d6ac2f47d2324f14f40f9c4a39acfb329bb8a"
 metafile = true
 
 [[files]]
@@ -428,6 +443,11 @@ metafile = true
 [[files]]
 file = "mods/tmrv.pw.toml"
 hash = "9a2c112447329f1daea6cda77d68d3cdf7f292ae9e72f69adbfc18cb18ab1eeb"
+metafile = true
+
+[[files]]
+file = "mods/transparent.pw.toml"
+hash = "bef2a55cf8f22003086a6dcbe746c3170cbc7218da891b8c555fd527bdc4b3e3"
 metafile = true
 
 [[files]]
