@@ -121,6 +121,56 @@ hash = "36debf7653e95a855b4fedacc19027cf2e01960fc0b6d55ef2ffbffbcb455690"
 metafile = true
 
 [[files]]
+file = "mods/dnt-ancient-city-overhaul.pw.toml"
+hash = "58096a477ce5489d4c283d910b0e8b285c6fea7ed8dd9010136f6af9464cc6e9"
+metafile = true
+
+[[files]]
+file = "mods/dnt-desert-temple-overhaul.pw.toml"
+hash = "f7c82a9de37ed0416e9b9ff33ccb92159a10b85d5a0ec61781f4b634a921f6ba"
+metafile = true
+
+[[files]]
+file = "mods/dnt-jungle-temple-overhaul.pw.toml"
+hash = "d32fd96a06d0f708e4c613d10c700e1f42402c32d239c2d07578600a71ee649e"
+metafile = true
+
+[[files]]
+file = "mods/dnt-nether-fortress-overhaul.pw.toml"
+hash = "25d0d7bb1e7d5999402150afd965e6f5f8b6b9e5a94e2fadd95d5bc581a7ab11"
+metafile = true
+
+[[files]]
+file = "mods/dnt-ocean-monument-overhaul.pw.toml"
+hash = "0c45d8d12fe993224ea37b11e5ef2fbdf4b6560aaca7938217db0392a028ad3f"
+metafile = true
+
+[[files]]
+file = "mods/dnt-pillager-outpost-overhaul.pw.toml"
+hash = "64cb86049ceccbac91f9099f7913d163b8265aeabcbfb7c536f286077f7829e2"
+metafile = true
+
+[[files]]
+file = "mods/dnt-stronghold-overhaul.pw.toml"
+hash = "88901e62bd4c195ae07dc7b53bf54f52d1a330b0c84da0edd24e938d1022f8b1"
+metafile = true
+
+[[files]]
+file = "mods/dnt-swamp-hut-overhaul.pw.toml"
+hash = "d61eb0419dac47f5cca10b54edcc289775a18c51c2e7b0ed3bd90daee8ae59b2"
+metafile = true
+
+[[files]]
+file = "mods/dnt-woodland-mansion-overhaul.pw.toml"
+hash = "dabdd4071bef81076c7fe7ff6bfa85830f5d87efd25b069fb78eb7134304b567"
+metafile = true
+
+[[files]]
+file = "mods/dungeons-and-taverns.pw.toml"
+hash = "b9244dca740d333c22f3425991fdd2fd40d3ae12384079a40a6fb7d4bca18a18"
+metafile = true
+
+[[files]]
 file = "mods/ears.pw.toml"
 hash = "b42ea604c46fc73d9474ebc9d6d3d64a1efe6b9d5df8512c71a86f820eb8a105"
 metafile = true
@@ -298,6 +348,36 @@ metafile = true
 [[files]]
 file = "mods/sodium.pw.toml"
 hash = "0281ed9713f3141bdac363056a791845510e14761ea65b4b2813cf96d664b20a"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-backpacks-create-integration.pw.toml"
+hash = "98894c50922dfad36e4313d798d4497a61c42ce855b44fd63aea79b4990cac5d"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-backpacks.pw.toml"
+hash = "afc8b791ae5751382ecb3715fef8a7a50059cc120c5ae556ed7967a97984a1dd"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-core.pw.toml"
+hash = "0c0d7d7785e4ceea16c3ed1c9905bdf33532de1e290b147323c079515f2dc04b"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-sorter.pw.toml"
+hash = "43364881676d63a48371f0f40c112ed3159c027a2f5f159980c8a7c620c394db"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-storage-create-integration.pw.toml"
+hash = "e6bb3eeda43411c95fa84549ba3281df62654e36140ec322190206fc8df512a4"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-storage.pw.toml"
+hash = "007d2d5934cd538ab80fcbb70f2737dd14e9f4057f3424fa14e41a761ef6b7f7"
 metafile = true
 
 [[files]]
