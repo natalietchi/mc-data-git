@@ -346,6 +346,11 @@ hash = "80c072e912fa697150c9bc5a662d6ac2f47d2324f14f40f9c4a39acfb329bb8a"
 metafile = true
 
 [[files]]
+file = "mods/pehkui.pw.toml"
+hash = "e5141bf653c820b9967b8be2e3d9d8e83f3b54d0450f0cabe812e00cce481fdf"
+metafile = true
+
+[[files]]
 file = "mods/perception.pw.toml"
 hash = "0151c79c4b39d79ad9343ba8d09d7c1722d44b3c056f9337837628628922335d"
 metafile = true
