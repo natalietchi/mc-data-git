@@ -56,6 +56,11 @@ hash = "093abe6db61cc854c7bcd46a3e0bec69fb03af507a8afcc3fdf25e1a58aa6aa6"
 metafile = true
 
 [[files]]
+file = "mods/better-modlist.pw.toml"
+hash = "5ebc1849da4c78f57b8f4cde4320d5409ea9244e372d50afc6362ee88d66dd50"
+metafile = true
+
+[[files]]
 file = "mods/blueprint.pw.toml"
 hash = "a5122c5ecc0e36da4f60474cc8ecaff590aaeae8be545ffddfe2c25db89816e7"
 metafile = true
@@ -78,6 +83,11 @@ metafile = true
 [[files]]
 file = "mods/cardiac.pw.toml"
 hash = "46e270352c265c328b122ac960a3478e1e3739c7e791b52139466551435d5bcc"
+metafile = true
+
+[[files]]
+file = "mods/chunky.pw.toml"
+hash = "1d5cc2b6dcfd1fc3adba4566b1c29b57ff1175316678c1f22e63cbc3e28a5ba0"
 metafile = true
 
 [[files]]
@@ -406,6 +416,11 @@ hash = "007d2d5934cd538ab80fcbb70f2737dd14e9f4057f3424fa14e41a761ef6b7f7"
 metafile = true
 
 [[files]]
+file = "mods/tectonic.pw.toml"
+hash = "8ad02530347f7b0dfe84b8eb081e2eaa23cae536de0d289137902f7557fb3a33"
+metafile = true
+
+[[files]]
 file = "mods/the-twilight-forest.pw.toml"
 hash = "bbd1d4b8b1562f98c9247a29de80b0ba5447dda5b549a8b4ee732c38925b784b"
 metafile = true
@@ -448,4 +463,9 @@ metafile = true
 [[files]]
 file = "mods/yungs-bridges.pw.toml"
 hash = "9d9b074b2425fc4f19808b7d6df4a0baeae39a37e909107aaa85004df1a2d195"
+metafile = true
+
+[[files]]
+file = "mods/yungs-menu-tweaks.pw.toml"
+hash = "a0d823abe0f59e943433820b7564d69cc453aa64b0ca472d242bd92dcb7cb215"
 metafile = true
