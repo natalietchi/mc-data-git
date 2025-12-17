@@ -1,13 +1,12 @@
-name = "disk2"
-author = "disk"
+name = "Packwiz"
 version = "1.0.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "971bc89e1630702087792bbb82f58b34e4033ea9b1ead93056dacbb65462258e"
+hash = "c58bd66b2149db469e6c2e161dfb1227797c88830db0c0c146e4ab66a4f493b3"
 
 [versions]
-minecraft = "1.20.1"
-neoforge = "47.1.106"
+minecraft = "1.21.1"
+neoforge = "21.1.216"

@@ -1,13 +1,13 @@
 name = "Perception"
-filename = "Perception-FORGE-0.1.4+1.20.1.jar"
+filename = "Perception-NEOFORGE-0.1.6+1.21.1.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/P8STLvzB/versions/CucvhaTX/Perception-FORGE-0.1.4%2B1.20.1.jar"
+url = "https://cdn.modrinth.com/data/P8STLvzB/versions/eFzzv5vq/Perception-NEOFORGE-0.1.6%2B1.21.1.jar"
 hash-format = "sha512"
-hash = "76b15443b3c2d6d63f19b7def90d85da172864dc86728d900aaa233207eefddf0500609f7dd2827b0bf919e8cb8c15d3e00822e3fbde1e1285c61ac3c5783c39"
+hash = "b814450b3179ee57928de50c89be7b0c0d8430173ac6526bea899ec1d6801bbd4b6f122ab94cfd89b28a5c71e433a5d07c4a65e7ce491bff423ed08ba090ab43"
 
 [update]
 [update.modrinth]
 mod-id = "P8STLvzB"
-version = "CucvhaTX"
+version = "eFzzv5vq"

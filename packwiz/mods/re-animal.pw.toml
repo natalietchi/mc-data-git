@@ -1,0 +1,13 @@
+name = "Re:Animal"
+filename = "reanimal-0.2.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/4Q5qctHv/versions/5M9w4zgt/reanimal-0.2.1.jar"
+hash-format = "sha512"
+hash = "170eac87ce78a3c8b6c99e2c3e48f03e5ec1c4faf400ff2252ffbabd2567ed071f79052b10d94af20941b5188a68c08fe27531954829d3cd14d54f9a3b1f541a"
+
+[update]
+[update.modrinth]
+mod-id = "4Q5qctHv"
+version = "5M9w4zgt"

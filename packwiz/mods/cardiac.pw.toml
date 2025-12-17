@@ -1,0 +1,13 @@
+name = "Cardiac"
+filename = "Cardiac-NEOFORGE-0.5.3.4+1.21.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/C5PewmIj/versions/sYPJU1uJ/Cardiac-NEOFORGE-0.5.3.4%2B1.21.jar"
+hash-format = "sha512"
+hash = "be1210acf444171c3dd7dcdbaf18060d642d2ebcf16e83e00620ffa35f76b113d597a889507f45a6cd9e96638e763e93e770e87730e8cdffcdcb5df7e0db565f"
+
+[update]
+[update.modrinth]
+mod-id = "C5PewmIj"
+version = "sYPJU1uJ"
