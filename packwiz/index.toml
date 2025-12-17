@@ -126,48 +126,48 @@ hash = "36debf7653e95a855b4fedacc19027cf2e01960fc0b6d55ef2ffbffbcb455690"
 metafile = true
 
 [[files]]
-file = "mods/dnt-ancient-city-overhaul.pw.toml"
-hash = "58096a477ce5489d4c283d910b0e8b285c6fea7ed8dd9010136f6af9464cc6e9"
+file = "mods/dungeons-and-taverns-ancient-city-overhaul.pw.toml"
+hash = "d92fc8263e986d682e6a207e434cbffc2844ea180e916553b280033d560d7c89"
 metafile = true
 
 [[files]]
-file = "mods/dnt-desert-temple-overhaul.pw.toml"
-hash = "f7c82a9de37ed0416e9b9ff33ccb92159a10b85d5a0ec61781f4b634a921f6ba"
+file = "mods/dungeons-and-taverns-desert-temple-overhaul.pw.toml"
+hash = "3e82f7bc2a521721e30bc60bc9823502daf204646d3a9bf33ab2616591261568"
 metafile = true
 
 [[files]]
-file = "mods/dnt-jungle-temple-overhaul.pw.toml"
-hash = "d32fd96a06d0f708e4c613d10c700e1f42402c32d239c2d07578600a71ee649e"
+file = "mods/dungeons-and-taverns-jungle-temple-overhaul.pw.toml"
+hash = "72724de3861b2f041eb0b430e2771c2f5287b3b85ba918562e050712b5571b81"
 metafile = true
 
 [[files]]
-file = "mods/dnt-nether-fortress-overhaul.pw.toml"
-hash = "25d0d7bb1e7d5999402150afd965e6f5f8b6b9e5a94e2fadd95d5bc581a7ab11"
+file = "mods/dungeons-and-taverns-nether-fortress-overhaul.pw.toml"
+hash = "adaea34e552e64a406a78a3cbcbca8d529052f1a23c9160e9a96e9407c698f3c"
 metafile = true
 
 [[files]]
-file = "mods/dnt-ocean-monument-overhaul.pw.toml"
-hash = "0c45d8d12fe993224ea37b11e5ef2fbdf4b6560aaca7938217db0392a028ad3f"
+file = "mods/dungeons-and-taverns-ocean-monument-overhaul.pw.toml"
+hash = "dc24e814f0794ed8cf8e16e6667736049e0763b4204369e07787559007cbcbbd"
 metafile = true
 
 [[files]]
-file = "mods/dnt-pillager-outpost-overhaul.pw.toml"
-hash = "64cb86049ceccbac91f9099f7913d163b8265aeabcbfb7c536f286077f7829e2"
+file = "mods/dungeons-and-taverns-pillager-outpost-overhaul.pw.toml"
+hash = "e73798f88e6e4fb817c102f64f57fcfd41f271aba703bed8e7b70759356cf246"
 metafile = true
 
 [[files]]
-file = "mods/dnt-stronghold-overhaul.pw.toml"
-hash = "88901e62bd4c195ae07dc7b53bf54f52d1a330b0c84da0edd24e938d1022f8b1"
+file = "mods/dungeons-and-taverns-stronghold-overhaul.pw.toml"
+hash = "872ab8c78193dd775eb707793b8edc528323632a7fe2930223513635c2fddefa"
 metafile = true
 
 [[files]]
-file = "mods/dnt-swamp-hut-overhaul.pw.toml"
-hash = "d61eb0419dac47f5cca10b54edcc289775a18c51c2e7b0ed3bd90daee8ae59b2"
+file = "mods/dungeons-and-taverns-swamp-hut-overhaul.pw.toml"
+hash = "ae0e810f5d824dbf486bce1629ddf3e792529d78147575fd57b6be1a35ab2843"
 metafile = true
 
 [[files]]
-file = "mods/dnt-woodland-mansion-overhaul.pw.toml"
-hash = "dabdd4071bef81076c7fe7ff6bfa85830f5d87efd25b069fb78eb7134304b567"
+file = "mods/dungeons-and-taverns-woodland-mansion-overhaul.pw.toml"
+hash = "7be67fc02758063ad89a6e0dba7451a3347d7ddd7e657263e8a7dd98d289613f"
 metafile = true
 
 [[files]]
