@@ -191,6 +191,11 @@ hash = "1a2ca9865ee018d9cc28693cfa6aa5e181a636eef9fa7811564ce4b6b859ff9d"
 metafile = true
 
 [[files]]
+file = "mods/every-compat.pw.toml"
+hash = "a7fdceccef7bee99b5cf8075b4f80229ce14eab8c590935cec8056e5da6680eb"
+metafile = true
+
+[[files]]
 file = "mods/extra-mod-integrations.pw.toml"
 hash = "1c516c3cdedc1a2b6bdd4d7ab12469142d5ee9dadc03e815be3f2a04b95f7135"
 metafile = true
@@ -266,8 +271,18 @@ hash = "7b8e8af83e8583adc91b2d859e5355f1bd0516a346d2584b8b01c004467d18af"
 metafile = true
 
 [[files]]
+file = "mods/macaws-bridges.pw.toml"
+hash = "c6887c071d6515a39aeb915429304ea9fdae876decde3ad66062c9ba779b16b4"
+metafile = true
+
+[[files]]
 file = "mods/midnightlib.pw.toml"
 hash = "3382daf9b5fadbbef742b84fe5b09fa912cc75cd4234e0ba573b85a513354123"
+metafile = true
+
+[[files]]
+file = "mods/moonlight.pw.toml"
+hash = "56f90779687daa9101ae4dc2730a3b44b07ed3a5113eb4f4b41e36143b297f56"
 metafile = true
 
 [[files]]
