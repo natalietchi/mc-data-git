@@ -1,0 +1,13 @@
+name = "WenXin's Marioverse"
+filename = "marioverse-1.21.1-1.2.6-neoforge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/rUR6ldL3/versions/vry47UXo/marioverse-1.21.1-1.2.6-neoforge.jar"
+hash-format = "sha512"
+hash = "d26cfba5bd46dce1d6b5d8a8e9a5c30903f90f2546c13691d7108c8e2722b150262bbef0be6630e96d0d2939d343b1eb9f1cf3e80d2becdf5c420f34060584d4"
+
+[update]
+[update.modrinth]
+mod-id = "rUR6ldL3"
+version = "vry47UXo"
