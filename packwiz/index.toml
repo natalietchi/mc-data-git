@@ -31,6 +31,11 @@ hash = "4cb216ce5180c707ea38e47de43cbda4a927a4a0534d325d1cb8a72f7e529072"
 metafile = true
 
 [[files]]
+file = "mods/artifacts.pw.toml"
+hash = "730498992eb3dad74a9bf9d9cd0cc104e4e205230bf76851f605c2d1a2b16bff"
+metafile = true
+
+[[files]]
 file = "mods/atmospheric.pw.toml"
 hash = "af6c0039538f5f5387184e6d055d5b5afe5f58de42ab451271d69e810d09eefb"
 metafile = true
@@ -258,6 +263,11 @@ metafile = true
 [[files]]
 file = "mods/platform.pw.toml"
 hash = "1264a43ce919f188661443bd959cdebb4be04ce70a2965835043c2b18cae730e"
+metafile = true
+
+[[files]]
+file = "mods/rar-compat.pw.toml"
+hash = "68d7d2cbeb93c10f99b3985c96b098aed7dc64f5d08e4855fdd9f37a759f7072"
 metafile = true
 
 [[files]]
