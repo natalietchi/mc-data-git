@@ -3,11 +3,11 @@ filename = "relics-1.21.1-0.11.4.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/OCJRPujW/versions/nJZOdDH2/relics-1.21.1-0.11.4.jar"
-hash-format = "sha512"
-hash = "f73e7b78b5db3c53b68cdd161fd6d13ba15019a9ab4ea52fc1f29778eb3ec21b970f5a665489abf739debe9bf5eba3b472bb73779a7ee083c2f639a1fb6a54fe"
+hash-format = "sha1"
+hash = "cb3ca9fa8bff3aff2e00f2da9ed398e739623eaa"
+mode = "metadata:curseforge"
 
 [update]
-[update.modrinth]
-mod-id = "OCJRPujW"
-version = "nJZOdDH2"
+[update.curseforge]
+file-id = 7312531
+project-id = 445274

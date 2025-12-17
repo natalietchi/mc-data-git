@@ -7,7 +7,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "ea336d25c3e21ef168aec20e1ea470c96949ad29632646ee8e8ab0d74b4bbfc9"
+hash = "6d3a1c92eee4dd671253c41ec000ae48064a33c45263d6adce5cad466395169d"
 metafile = true
 
 [[files]]
@@ -87,7 +87,7 @@ metafile = true
 
 [[files]]
 file = "mods/controlify.pw.toml"
-hash = "30a1cd05e50935756ef9a1aaf7c032242354587c9032fa69e7cb190ff38eff7b"
+hash = "6e0a3370c9669465299b2492cdde68f03ba081c3ee002aa78ce3ecf059537827"
 metafile = true
 
 [[files]]
@@ -97,7 +97,7 @@ metafile = true
 
 [[files]]
 file = "mods/craftpresence.pw.toml"
-hash = "ef9a6da83be95d05a9328f74e3ef7378d7a5c82f191001bce69efb220f6c2498"
+hash = "feb859385e0320c6a3a452d175885d138f567c938f7f3fc3558bdec17e0241ae"
 metafile = true
 
 [[files]]
@@ -112,7 +112,7 @@ metafile = true
 
 [[files]]
 file = "mods/curios.pw.toml"
-hash = "36debf7653e95a855b4fedacc19027cf2e01960fc0b6d55ef2ffbffbcb455690"
+hash = "f92e7a06645e41ea1934dc420eb2772edb1708c0d71cb427baef8cf753acb934"
 metafile = true
 
 [[files]]
@@ -237,7 +237,7 @@ metafile = true
 
 [[files]]
 file = "mods/octo-lib.pw.toml"
-hash = "a52c2b505827a549dfabebd6586591910fcf6e1a62dbb27604aacc96d412d5e4"
+hash = "32f8d722b8e90a4ded120d3cbc7d6718d7bc2ea57a292af725978117710a6490"
 metafile = true
 
 [[files]]
@@ -252,7 +252,7 @@ metafile = true
 
 [[files]]
 file = "mods/platform.pw.toml"
-hash = "ce6e210ac63b92f3255c4896d116f35b0af8c57a1f84dab744d939535ea528ce"
+hash = "1264a43ce919f188661443bd959cdebb4be04ce70a2965835043c2b18cae730e"
 metafile = true
 
 [[files]]
@@ -267,7 +267,7 @@ metafile = true
 
 [[files]]
 file = "mods/relics-mod.pw.toml"
-hash = "491b4e103152cbf45f84c49672e4a942202f96acd4a8dfee4976f4b447fcf8c1"
+hash = "04540909c8a46aaacf83e7a7098489e5211b0fb2c323dbb3931e45755e52ffcb"
 metafile = true
 
 [[files]]
@@ -306,6 +306,11 @@ hash = "9a2c112447329f1daea6cda77d68d3cdf7f292ae9e72f69adbfc18cb18ab1eeb"
 metafile = true
 
 [[files]]
+file = "mods/unilib.pw.toml"
+hash = "ad155d9399b4a32e64770845f5561f996bde246ccc5eaf47fb5909e3114a7a13"
+metafile = true
+
+[[files]]
 file = "mods/upgrade-aquatic.pw.toml"
 hash = "c5ca24c184e37a29d5c6f1d244f0fd80e0f615723d35b4d0e04bcbd97d9bb8e4"
 metafile = true
@@ -322,5 +327,5 @@ metafile = true
 
 [[files]]
 file = "mods/yacl.pw.toml"
-hash = "9a89a97f142873b9ab62d2c7c807ac22e6f16c828282052b416a6f3f7f785a48"
+hash = "3558debe8bf15733b43387dbd1368e12b27e52fd003056d8c0670d7a36c8ff07"
 metafile = true

@@ -3,11 +3,11 @@ filename = "controlify-2.4.4+1.21.1-neoforge.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/DOUdJVEm/versions/tVXp3YKm/controlify-2.4.4%2B1.21.1-neoforge.jar"
-hash-format = "sha512"
-hash = "4d4acd436cbe756a3bf12d15253943a88a304f219fe1e26dcd574449fc09b7cb1de1f3fe8f9ba813efa775a2e3817d990b2885ae2afc051032fac9cec45636ac"
+hash-format = "sha1"
+hash = "e5930b525007fb85bb3f77f96712a871dcdb1b18"
+mode = "metadata:curseforge"
 
 [update]
-[update.modrinth]
-mod-id = "DOUdJVEm"
-version = "tVXp3YKm"
+[update.curseforge]
+file-id = 7291170
+project-id = 835847
