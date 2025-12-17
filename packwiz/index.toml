@@ -141,6 +141,11 @@ hash = "36debf7653e95a855b4fedacc19027cf2e01960fc0b6d55ef2ffbffbcb455690"
 metafile = true
 
 [[files]]
+file = "mods/custom-player-models.pw.toml"
+hash = "e4d1ea5dfc2b357edbcd2812d9031a62979cdac9d8c3adf595d9e6a1b958500f"
+metafile = true
+
+[[files]]
 file = "mods/dungeons-and-taverns-ancient-city-overhaul.pw.toml"
 hash = "d92fc8263e986d682e6a207e434cbffc2844ea180e916553b280033d560d7c89"
 metafile = true
@@ -218,11 +223,6 @@ metafile = true
 [[files]]
 file = "mods/farmers-delight.pw.toml"
 hash = "44abae510395f12f9ea97b8296b2f72e25f18b9f3f2cc0ee42c0d9afd73fe0b3"
-metafile = true
-
-[[files]]
-file = "mods/figura.pw.toml"
-hash = "3e378b35f3be0d8e648528103569d0bce713c720acaf7b98790b192d3b428de6"
 metafile = true
 
 [[files]]
