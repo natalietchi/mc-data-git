@@ -12,7 +12,7 @@ metafile = true
 
 [[files]]
 file = "mods/ars-nouveau.pw.toml"
-hash = "576da71f574ac4c70fb1c8649ba9b8241264c22ff9526003f32c87bb80a7c37f"
+hash = "d2b8dc640bd23696953262d883382f299ae002968ce4a8c7ed6d39c706b350de"
 metafile = true
 
 [[files]]
@@ -201,8 +201,13 @@ hash = "502d4ba2ca8c7f6f52830cfc43fc12b567023266f2b557ee2b8eea737b58f8ea"
 metafile = true
 
 [[files]]
+file = "mods/lendercataclysm.pw.toml"
+hash = "62f78f4c3c3fac7e5f0507e2b7a2fdf854a263d34b45c0295df8a07255c37ead"
+metafile = true
+
+[[files]]
 file = "mods/lionfish-api.pw.toml"
-hash = "b821efc793dd7308be6788095bea26a2a0479f9a3ddc3b0d6a6a2af351153fc0"
+hash = "3d5d4c97ece8d1470d785fbffb44c1f17ca406931d08dd0cfd5d77745a956979"
 metafile = true
 
 [[files]]
@@ -272,17 +277,17 @@ metafile = true
 
 [[files]]
 file = "mods/reliquified-ars-nouveau.pw.toml"
-hash = "6d718861ccd271301e54dba5c461e5b9105abaafc7c85e3b119dd2fc71b161b8"
+hash = "2cba8e3227209edcb88307aa9cddfb6362dad9b9ab96596ad519913f8e60a196"
 metafile = true
 
 [[files]]
 file = "mods/reliquified-l-ender-s-cataclysm.pw.toml"
-hash = "ff5afd5570a5a3d921c7764d0c64f82eb0c87c7e2e3db3e53aa45d6b6b4edc47"
+hash = "0a11dfdd0fbfcdd535bc610fb2d9b9694eb13c40b757c4a686228d2b7da6fb5e"
 metafile = true
 
 [[files]]
 file = "mods/reliquified-twilight-forest.pw.toml"
-hash = "13fffb230d17396a7a6f3dc78e3476def88102581d67b919261c40d2f233e6db"
+hash = "ea80cd43856df236cdfc3f5b2a826e2965eb83d4f35cf465ccbd61c4b5b02bf7"
 metafile = true
 
 [[files]]
