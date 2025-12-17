@@ -106,6 +106,11 @@ hash = "055b1cba862cdddfce8466ce63b9cf1bf07541602069e80c6cf9f50d64ec8197"
 metafile = true
 
 [[files]]
+file = "mods/collective.pw.toml"
+hash = "cde21d14fcaf9495f0f5b3d8fb298dd60cb12badc21a27414c25ebf11dfb3fe1"
+metafile = true
+
+[[files]]
 file = "mods/connector.pw.toml"
 hash = "aa242da373359065cb62d8e1094e2f17b456f3ea300db145896cf6c6aae43101"
 metafile = true
@@ -331,6 +336,11 @@ hash = "a52c2b505827a549dfabebd6586591910fcf6e1a62dbb27604aacc96d412d5e4"
 metafile = true
 
 [[files]]
+file = "mods/ore-harvester.pw.toml"
+hash = "d24b63a488c7807499b18fe76eda1ecd3ad8b787ded557f9a6412dadc66ba4d4"
+metafile = true
+
+[[files]]
 file = "mods/owo-lib.pw.toml"
 hash = "46831c04077a06df823bcd0f254833a90a9a9ccc78f5069f4b4c27fa301ac0cf"
 metafile = true
@@ -431,6 +441,11 @@ hash = "007d2d5934cd538ab80fcbb70f2737dd14e9f4057f3424fa14e41a761ef6b7f7"
 metafile = true
 
 [[files]]
+file = "mods/stack-refill.pw.toml"
+hash = "00da2960ca396b98aee61d0b3b73bff01ed2ae22569df718f5f1028a04819bf6"
+metafile = true
+
+[[files]]
 file = "mods/tectonic.pw.toml"
 hash = "8ad02530347f7b0dfe84b8eb081e2eaa23cae536de0d289137902f7557fb3a33"
 metafile = true
@@ -451,6 +466,11 @@ hash = "bef2a55cf8f22003086a6dcbe746c3170cbc7218da891b8c555fd527bdc4b3e3"
 metafile = true
 
 [[files]]
+file = "mods/tree-harvester.pw.toml"
+hash = "d5837bde6e12926d8649f6caaadf68a6f80e060ac164348d7ec5ec6555817165"
+metafile = true
+
+[[files]]
 file = "mods/unilib.pw.toml"
 hash = "ad155d9399b4a32e64770845f5561f996bde246ccc5eaf47fb5909e3114a7a13"
 metafile = true
@@ -463,6 +483,11 @@ metafile = true
 [[files]]
 file = "mods/vanillabackport.pw.toml"
 hash = "b278c479cc1d50ffbcf27e3514bcdb0995471eb11e2335c54255edc459b3462e"
+metafile = true
+
+[[files]]
+file = "mods/villager-names-serilum.pw.toml"
+hash = "384337b9af46d36f7d45fbbd1e9ea5801704df31a0db000f862e16aac71c24a7"
 metafile = true
 
 [[files]]
