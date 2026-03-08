@@ -616,6 +616,21 @@ hash = "c5ca24c184e37a29d5c6f1d244f0fd80e0f615723d35b4d0e04bcbd97d9bb8e4"
 metafile = true
 
 [[files]]
+file = "mods/vanillabackport.pw.toml"
+hash = "5259efb90d32a709f022d4029a31ad9abf2209f18da8476ce6abd3c0893f9878"
+metafile = true
+
+[[files]]
+file = "mods/vb-compat.pw.toml"
+hash = "f1d4ab832039042564deb597162b7abf97bf7611c732712ecb528647f90965e4"
+metafile = true
+
+[[files]]
+file = "mods/vb-mob-variants-compat.pw.toml"
+hash = "ce2c77ea4776ab4945d50f8eb286d673abb946320d2aa8a3b956b58e4353fc50"
+metafile = true
+
+[[files]]
 file = "mods/villager-names-serilum.pw.toml"
 hash = "384337b9af46d36f7d45fbbd1e9ea5801704df31a0db000f862e16aac71c24a7"
 metafile = true
