@@ -1,0 +1,13 @@
+name = "Zelda, Legend of the Master Sword"
+filename = "mastersword-neoforge-1.21.1-2.4.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/U9C1t56l/versions/UYJqTocE/mastersword-neoforge-1.21.1-2.4.1.jar"
+hash-format = "sha512"
+hash = "7c5713443a8db8944c809ddec1107a0c7247c2ea8d6eaf773b8dc9d2bb04c569213529a2adc640e002bee33901b36dff5895eea807c83cf8a606a1fcfa9d8f63"
+
+[update]
+[update.modrinth]
+mod-id = "U9C1t56l"
+version = "UYJqTocE"

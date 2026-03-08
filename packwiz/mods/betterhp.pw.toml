@@ -1,0 +1,13 @@
+name = "BetterHP"
+filename = "better_hp-2.0.5-1.21.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/xfGXfoxY/versions/ytfhkHCV/better_hp-2.0.5-1.21.1.jar"
+hash-format = "sha512"
+hash = "95f92e13f77e9300af457f2d5677430b1265bd86dea9a37e596e867fb57a9df866ded0cf153e85019b67d95b79027185392b06e1d88ae0e38abd710176cbbf25"
+
+[update]
+[update.modrinth]
+mod-id = "xfGXfoxY"
+version = "ytfhkHCV"

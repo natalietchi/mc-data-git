@@ -1,0 +1,13 @@
+name = "Stardew Fishing"
+filename = "stardew_fishing-3.6-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Rw1Ylmn4/versions/nJsj2zUY/stardew_fishing-3.6-1.21.1.jar"
+hash-format = "sha512"
+hash = "622d1ef25886246feebf0449d61c3e5df7de13752a9cc150c49a8e8aaab3092e99020ff8ccbf6379476dc97b8dc10d622438592268244cd1561c2113ef0fcc42"
+
+[update]
+[update.modrinth]
+mod-id = "Rw1Ylmn4"
+version = "nJsj2zUY"
