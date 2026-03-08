@@ -156,8 +156,18 @@ hash = "d7e6f009549d3862ec0f285aa81be1d0544fe618adc3011454bcbd2626d6a98f"
 metafile = true
 
 [[files]]
+file = "mods/copycats.pw.toml"
+hash = "e002fab16a9b9ef0a35844030339612a38d3c58b0b93e97a34eb43ddc9108be7"
+metafile = true
+
+[[files]]
 file = "mods/craftpresence.pw.toml"
 hash = "894e7039c73fbf9aebd3c7351788ec3f697245364032de184619898379058aed"
+metafile = true
+
+[[files]]
+file = "mods/create-steam-n-rails-1.21.1.pw.toml"
+hash = "fa7e815272f183ccdeac6baff3690f6291c4117646af8912123b705fde64dbef"
 metafile = true
 
 [[files]]
@@ -428,6 +438,11 @@ metafile = true
 [[files]]
 file = "mods/playeranimator.pw.toml"
 hash = "93284ca7f2f23f0bb76d42b797cabf2aea1914ee9825bec82bf6ffe4c60dda0d"
+metafile = true
+
+[[files]]
+file = "mods/railways-untold.pw.toml"
+hash = "d289002c64f5ac4896619f065cf361dcd377e4a73dc8ef4c6ab64d6414788a11"
 metafile = true
 
 [[files]]
