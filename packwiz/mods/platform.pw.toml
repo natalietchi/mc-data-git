@@ -3,11 +3,11 @@ filename = "Platform-neoforge-1.21.1-1.2.11.6.2.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "b33452ab3a003fb12271b5b8c51f93c1c3c5559e"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/i6fiqm5y/versions/ZmMlPE4e/Platform-neoforge-1.21.1-1.2.11.6.2.jar"
+hash-format = "sha512"
+hash = "a6434172f74a1d3877be96022d6a8a49ee09ff0a38c52b4811c0f65cd0bf8749f09ebf315fcb7a737a178610324faf29c3c7e98c8e0a93f5460d27453cebab38"
 
 [update]
-[update.curseforge]
-file-id = 7609671
-project-id = 997634
+[update.modrinth]
+mod-id = "i6fiqm5y"
+version = "ZmMlPE4e"

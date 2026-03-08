@@ -432,7 +432,7 @@ metafile = true
 
 [[files]]
 file = "mods/platform.pw.toml"
-hash = "ef4c526ce4044311d4c9c5be9a13ff26ff32bc7e2f66633a87173c0a4f8bdd8a"
+hash = "bcbefa28dda9e9de6e31a92314511444bea08d53de0dc458ebd3f5cc053a24fb"
 metafile = true
 
 [[files]]
@@ -458,6 +458,11 @@ metafile = true
 [[files]]
 file = "mods/re-animal.pw.toml"
 hash = "c06326c184ebc15a357b0c86032918fa1cc22d755cd4173d36eebad4be443cba"
+metafile = true
+
+[[files]]
+file = "mods/regions-unexplored.pw.toml"
+hash = "1dff12e9b63565695133af67d99fedc0f92cb35387939a82f7fd11277c404847"
 metafile = true
 
 [[files]]
@@ -608,11 +613,6 @@ metafile = true
 [[files]]
 file = "mods/upgrade-aquatic.pw.toml"
 hash = "c5ca24c184e37a29d5c6f1d244f0fd80e0f615723d35b4d0e04bcbd97d9bb8e4"
-metafile = true
-
-[[files]]
-file = "mods/vanillabackport.pw.toml"
-hash = "5259efb90d32a709f022d4029a31ad9abf2209f18da8476ce6abd3c0893f9878"
 metafile = true
 
 [[files]]
