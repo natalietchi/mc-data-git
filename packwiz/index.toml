@@ -196,6 +196,11 @@ hash = "36debf7653e95a855b4fedacc19027cf2e01960fc0b6d55ef2ffbffbcb455690"
 metafile = true
 
 [[files]]
+file = "mods/double-doors.pw.toml"
+hash = "c7e3cfd32470d3e42baf3dc1dfcf9f17fb43df548d446ae32ec8a105d7604748"
+metafile = true
+
+[[files]]
 file = "mods/dungeons-and-taverns-ancient-city-overhaul.pw.toml"
 hash = "d92fc8263e986d682e6a207e434cbffc2844ea180e916553b280033d560d7c89"
 metafile = true
@@ -278,6 +283,11 @@ metafile = true
 [[files]]
 file = "mods/every-compat.pw.toml"
 hash = "d847a20fba2bf6e0474b45a647130b74e036f6ce34516caef659b5b8a8d79e14"
+metafile = true
+
+[[files]]
+file = "mods/explosive-enhancement-forge.pw.toml"
+hash = "fc8948d1a8837b7a89a3b754335fd53086ba89c78af9c3d07fa899761c6a9e50"
 metafile = true
 
 [[files]]
@@ -483,6 +493,11 @@ metafile = true
 [[files]]
 file = "mods/playeranimator.pw.toml"
 hash = "93284ca7f2f23f0bb76d42b797cabf2aea1914ee9825bec82bf6ffe4c60dda0d"
+metafile = true
+
+[[files]]
+file = "mods/punchy-fpa.pw.toml"
+hash = "f3b130829d4109594991ab510e004d7f933b673ec345029d1c92f959df173157"
 metafile = true
 
 [[files]]
@@ -768,6 +783,11 @@ metafile = true
 [[files]]
 file = "resourcepacks/fresh-animations.pw.toml"
 hash = "6a1556a0e4fcb411b33efafc3382b4abd9a6e671f140dc0d42e9aad2808e24f3"
+metafile = true
+
+[[files]]
+file = "resourcepacks/punchy!-compatibility.pw.toml"
+hash = "2e473f4e0cefba54b27671339ac0c1d1334fd52aece81388a1a3deefb0e52299"
 metafile = true
 
 [[files]]
