@@ -196,11 +196,6 @@ hash = "36debf7653e95a855b4fedacc19027cf2e01960fc0b6d55ef2ffbffbcb455690"
 metafile = true
 
 [[files]]
-file = "mods/custom-player-models.pw.toml"
-hash = "d65a013fc6ad1b6e1470e05c9efe7825e988b47415a033fef6d9b91474b488cb"
-metafile = true
-
-[[files]]
 file = "mods/double-doors.pw.toml"
 hash = "c7e3cfd32470d3e42baf3dc1dfcf9f17fb43df548d446ae32ec8a105d7604748"
 metafile = true
@@ -253,6 +248,11 @@ metafile = true
 [[files]]
 file = "mods/dungeons-and-taverns.pw.toml"
 hash = "b9244dca740d333c22f3425991fdd2fd40d3ae12384079a40a6fb7d4bca18a18"
+metafile = true
+
+[[files]]
+file = "mods/ears.pw.toml"
+hash = "b42ea604c46fc73d9474ebc9d6d3d64a1efe6b9d5df8512c71a86f820eb8a105"
 metafile = true
 
 [[files]]
@@ -778,6 +778,11 @@ metafile = true
 [[files]]
 file = "resourcepacks/bsl-minipacks.pw.toml"
 hash = "1cda5e93ee0bda2a8e1b6cbda7a204a283c547da3a90347e875e5d2548d4b635"
+metafile = true
+
+[[files]]
+file = "resourcepacks/fa-player-extension.pw.toml"
+hash = "ac7bbfdc56a8e16d5c900db5b94f41497526cd7546f4d751dd17aa604c064578"
 metafile = true
 
 [[files]]
