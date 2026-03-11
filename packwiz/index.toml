@@ -411,6 +411,11 @@ hash = "502d4ba2ca8c7f6f52830cfc43fc12b567023266f2b557ee2b8eea737b58f8ea"
 metafile = true
 
 [[files]]
+file = "mods/libjf.pw.toml"
+hash = "3c2952381ff3885818e9892193b6adb7359d72582a832a0a55d9c225ffdef501"
+metafile = true
+
+[[files]]
 file = "mods/lionfish-api.pw.toml"
 hash = "3d5d4c97ece8d1470d785fbffb44c1f17ca406931d08dd0cfd5d77745a956979"
 metafile = true
@@ -438,6 +443,11 @@ metafile = true
 [[files]]
 file = "mods/midnightlib.pw.toml"
 hash = "3382daf9b5fadbbef742b84fe5b09fa912cc75cd4234e0ba573b85a513354123"
+metafile = true
+
+[[files]]
+file = "mods/modefite-item-definition-backport.pw.toml"
+hash = "b559e05fbf46f64b754be90c6d7855fec07cd317ec6ce97c83e9fc235fe0bd0c"
 metafile = true
 
 [[files]]
@@ -478,6 +488,11 @@ metafile = true
 [[files]]
 file = "mods/noisium.pw.toml"
 hash = "d424a9260ef51bc102e56f0423d91dfabb739ccca8a86eb1c450ea631b739280"
+metafile = true
+
+[[files]]
+file = "mods/not-enough-animations.pw.toml"
+hash = "98e6183c07de15c2565ee2afa70b930a877fc8d03722985f2c8137fd67da894d"
 metafile = true
 
 [[files]]
@@ -551,6 +566,11 @@ hash = "f3b130829d4109594991ab510e004d7f933b673ec345029d1c92f959df173157"
 metafile = true
 
 [[files]]
+file = "mods/puzzle.pw.toml"
+hash = "748d7eb08f3d2c362aebf9ee417706b181257b7d5f4a2003ec93340d5b7b881d"
+metafile = true
+
+[[files]]
 file = "mods/railways-untold.pw.toml"
 hash = "d289002c64f5ac4896619f065cf361dcd377e4a73dc8ef4c6ab64d6414788a11"
 metafile = true
@@ -598,6 +618,11 @@ metafile = true
 [[files]]
 file = "mods/resourceful-lib.pw.toml"
 hash = "c0b066684294c33972d562e0cb08ea17b2d31bcf86cd1d6c63b8e968f0eac7a2"
+metafile = true
+
+[[files]]
+file = "mods/respackopts.pw.toml"
+hash = "90b9919bbe87b80bb3274228d6543adb328a51753b0741f6ea4d98441f268983"
 metafile = true
 
 [[files]]
@@ -821,6 +846,11 @@ hash = "102bf98f0468746f140a4dfe1b3ccc644149c63b0ece8a8f38b7fe1eaff0538c"
 metafile = true
 
 [[files]]
+file = "resourcepacks/better-lanterns.pw.toml"
+hash = "17ea105b98d79a0be6ce20da3304f9ed1398c5d9d3ad24cea2c914a109ede78e"
+metafile = true
+
+[[files]]
 file = "resourcepacks/better-leaves.pw.toml"
 hash = "610e5e08a034d7fdda17d17f37853c1abf19f94425e0a831ced52fccb6ccb063"
 metafile = true
@@ -841,6 +871,11 @@ hash = "6a1556a0e4fcb411b33efafc3382b4abd9a6e671f140dc0d42e9aad2808e24f3"
 metafile = true
 
 [[files]]
+file = "resourcepacks/hyper-punchy.pw.toml"
+hash = "f8f5d86fbdab5a7278165cebf7555423c646ce7e971e4f52c76c4567cffc79cc"
+metafile = true
+
+[[files]]
 file = "resourcepacks/punchy!-compatibility.pw.toml"
 hash = "2e473f4e0cefba54b27671339ac0c1d1334fd52aece81388a1a3deefb0e52299"
 metafile = true
@@ -848,6 +883,11 @@ metafile = true
 [[files]]
 file = "resourcepacks/tras-fresh-player.pw.toml"
 hash = "0a5ed482c6c1fdf41031dc322638818589f69c404705117cc6c968e2fc574763"
+metafile = true
+
+[[files]]
+file = "resourcepacks/weskersons-torches.pw.toml"
+hash = "8a72543fe795761275b69710f1ba403c24fd82e20b0fd704c8dba6717ac6b973"
 metafile = true
 
 [[files]]
